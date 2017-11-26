@@ -13,7 +13,9 @@
 <p>
   <strong>Results:</strong>
   <% @results.each do |result| %>
-  	 <li><%= link_to "#{result.a}", "#{result.a}"%></li>
+  	<% @results.variable_names.each do |var| %>
+  	  <li><%= link_to result[var], result[var].to_s %></li>
+  	<% end %>
   <% end %>
 </p>
 
