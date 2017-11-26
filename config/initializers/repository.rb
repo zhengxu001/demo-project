@@ -1,1 +1,0 @@
-Spira.repository = RDF::Repository.new

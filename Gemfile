@@ -13,6 +13,7 @@ gem 'sqlite3'
 
 gem 'spira'
 gem 'rdf'
+gem 'linkeddata'
 # gem 'rdf/vocab'
 # gem 'rdf/ntriples'
 # gem 'rdf/nquads'

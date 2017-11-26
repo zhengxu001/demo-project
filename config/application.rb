@@ -5,7 +5,9 @@ require 'rails/all'
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
+Spira.repository = RDF::Repository.new
 
+REPO = Spira.repository
 module DemoProject
   class Application < Rails::Application
     # Initialize configuration defaults for originally generated Rails version.

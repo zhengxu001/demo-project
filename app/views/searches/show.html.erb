@@ -1,0 +1,22 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @search.name %>
+</p>
+
+<p>
+  <strong>Query:</strong>
+  <%= @search.query %>
+</p>
+
+<p>
+  <strong>Results:</strong>
+  <% @results.each do |result| %>
+  	 <li><%= link_to "#{result.a}", "#{result.a}"%></li>
+  <% end %>
+</p>
+
+
+<%= link_to 'Edit', edit_search_path(@search) %> |
+<%= link_to 'Back', searches_path %>
