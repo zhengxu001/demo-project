@@ -2,8 +2,8 @@ OWL_ROOT = 'http://kdetask.com#'
 GEOSPARQL = 'http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#'
 class County < Spira::Base
   type RDF::URI.new("#{OWL_ROOT}County")
-  property :label, :predicate => RDF::RDFS.label
-  property :geometry, :predicate => RDF::URI.new("#{GEOSPARQL}geometry")
+  property :label, :predicate => RDF::RDFS.label, type: String
+  property :geometry, :predicate => RDF::URI.new("#{GEOSPARQL}geometry"), type: String
 end
 REPO << [RDF::URI.new("#{OWL_ROOT}County"), RDF::RDFV.type, RDF::OWL.Class]
 REPO << [RDF::URI.new("#{OWL_ROOT}County"), RDF::RDFS.subClassOf, RDF::OWL.Thing]
