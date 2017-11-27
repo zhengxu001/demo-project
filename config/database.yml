@@ -25,5 +25,11 @@ test:
   # database: r-ontology
 
 production:
-  <<: *default
+  adapter: postgresql
+  host: postgres://wyirfpdtleasjl:0d1c2cad5f7d4d125638cc6eeb876b0a38f50f369b6f6e614b906c1e7e283217@ec2-54-247-80-8.eu-west-1.compute.amazonaws.com:5432/d95a806t1e9t3p
+  database: d95a806t1e9t3p
+  pool: 5432
+  username: wyirfpdtleasjl
+  password: 0d1c2cad5f7d4d125638cc6eeb876b0a38f50f369b6f6e614b906c1e7e283217
+
   # database: r-ontology

@@ -27,5 +27,3 @@ CSV.foreach("#{Rails.root}/config/initializers/school.csv") do |row|
   county.location  = row[3]
   county.save!
 end
-
-p REPO
