@@ -8,6 +8,14 @@
   <dd><%= @search.name %></dd>
   <dt><strong><%= model_class.human_attribute_name(:query) %>:</strong></dt>
   <dd><%= @search.query %></dd>
+  <dt><strong><%= model_class.human_attribute_name(:Results) %>:</strong></dt>
+  <dd>
+    <% @results.each do |result| %>
+      <% @results.variable_names.each do |var| %>
+        <li><%= link_to result[var], result[var].to_s %></li>
+      <% end %>
+    <% end %>
+  </dd>
 </dl>
 
 <%= link_to t('.back', :default => t("helpers.links.back")),
