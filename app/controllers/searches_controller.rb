@@ -11,7 +11,7 @@ class SearchesController < ApplicationController
   # GET /searches/1.json
   def show
     begin
-      @results = SPARQL.execute(@search.query, REPO)
+      @results = SPARQL.execute(@search.query.gsub("\t", ""), REPO)
     rescue
       @results = nil
       format.html { redirect_to @search, notice: 'BAD QUARY' }
