@@ -10,8 +10,12 @@ class SearchesController < ApplicationController
   # GET /searches/1
   # GET /searches/1.json
   def show
-    # p select * where {?a ?b ?c}
-    @results = SPARQL.execute(@search.query, REPO)
+    begin
+      @results = SPARQL.execute(@search.query, REPO)
+    rescue
+      @results = nil
+      format.html { redirect_to @search, notice: 'BAD QUARY' }
+    end
   end
 
   # GET /searches/new

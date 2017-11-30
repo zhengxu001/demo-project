@@ -1,0 +1,5101 @@
+@prefix rubytask: <http://www.r-ontology.com#> .
+
+rubytask:Ethnicity1 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo1;
+   rubytask:PercPopIrish2011 "80.81" .
+
+rubytask:Ethnicity10 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo10;
+   rubytask:PercPopIrish2011 "95.62" .
+
+rubytask:Ethnicity100 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo100;
+   rubytask:PercPopIrish2011 "92.08" .
+
+rubytask:Ethnicity101 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo101;
+   rubytask:PercPopIrish2011 "82.6" .
+
+rubytask:Ethnicity102 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo102;
+   rubytask:PercPopIrish2011 "83.15" .
+
+rubytask:Ethnicity103 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo103;
+   rubytask:PercPopIrish2011 "92.85" .
+
+rubytask:Ethnicity104 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo104;
+   rubytask:PercPopIrish2011 "92.65" .
+
+rubytask:Ethnicity105 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo105;
+   rubytask:PercPopIrish2011 "94.53" .
+
+rubytask:Ethnicity106 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo106;
+   rubytask:PercPopIrish2011 "94.23" .
+
+rubytask:Ethnicity107 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo107;
+   rubytask:PercPopIrish2011 "88.52" .
+
+rubytask:Ethnicity108 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo108;
+   rubytask:PercPopIrish2011 "94.61" .
+
+rubytask:Ethnicity109 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo109;
+   rubytask:PercPopIrish2011 "85.57" .
+
+rubytask:Ethnicity11 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo11;
+   rubytask:PercPopIrish2011 "96.86" .
+
+rubytask:Ethnicity110 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo110;
+   rubytask:PercPopIrish2011 "95.85" .
+
+rubytask:Ethnicity111 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo111;
+   rubytask:PercPopIrish2011 "93.72" .
+
+rubytask:Ethnicity112 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo112;
+   rubytask:PercPopIrish2011 "90.77" .
+
+rubytask:Ethnicity113 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo113;
+   rubytask:PercPopIrish2011 "88.5" .
+
+rubytask:Ethnicity114 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo114;
+   rubytask:PercPopIrish2011 "80.3" .
+
+rubytask:Ethnicity115 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo115;
+   rubytask:PercPopIrish2011 "94.27" .
+
+rubytask:Ethnicity116 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo116;
+   rubytask:PercPopIrish2011 "89.78" .
+
+rubytask:Ethnicity117 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo117;
+   rubytask:PercPopIrish2011 "92.36" .
+
+rubytask:Ethnicity118 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo118;
+   rubytask:PercPopIrish2011 "93.01" .
+
+rubytask:Ethnicity119 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo119;
+   rubytask:PercPopIrish2011 "91.83" .
+
+rubytask:Ethnicity12 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo12;
+   rubytask:PercPopIrish2011 "94.67" .
+
+rubytask:Ethnicity120 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo120;
+   rubytask:PercPopIrish2011 "58.31" .
+
+rubytask:Ethnicity121 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo121;
+   rubytask:PercPopIrish2011 "53.46" .
+
+rubytask:Ethnicity122 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo122;
+   rubytask:PercPopIrish2011 "62.21" .
+
+rubytask:Ethnicity123 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo123;
+   rubytask:PercPopIrish2011 "86.42" .
+
+rubytask:Ethnicity124 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo124;
+   rubytask:PercPopIrish2011 "92.74" .
+
+rubytask:Ethnicity125 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo125;
+   rubytask:PercPopIrish2011 "95.62" .
+
+rubytask:Ethnicity126 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo126;
+   rubytask:PercPopIrish2011 "93.82" .
+
+rubytask:Ethnicity127 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo127;
+   rubytask:PercPopIrish2011 "48.52" .
+
+rubytask:Ethnicity128 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo128;
+   rubytask:PercPopIrish2011 "43.4" .
+
+rubytask:Ethnicity129 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo129;
+   rubytask:PercPopIrish2011 "31.74" .
+
+rubytask:Ethnicity13 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo13;
+   rubytask:PercPopIrish2011 "93.73" .
+
+rubytask:Ethnicity130 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo130;
+   rubytask:PercPopIrish2011 "78.52" .
+
+rubytask:Ethnicity131 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo131;
+   rubytask:PercPopIrish2011 "66.63" .
+
+rubytask:Ethnicity132 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo132;
+   rubytask:PercPopIrish2011 "66.02" .
+
+rubytask:Ethnicity133 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo133;
+   rubytask:PercPopIrish2011 "74.49" .
+
+rubytask:Ethnicity134 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo134;
+   rubytask:PercPopIrish2011 "95.38" .
+
+rubytask:Ethnicity135 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo135;
+   rubytask:PercPopIrish2011 "95.5" .
+
+rubytask:Ethnicity136 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo136;
+   rubytask:PercPopIrish2011 "86.88" .
+
+rubytask:Ethnicity137 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo137;
+   rubytask:PercPopIrish2011 "93.1" .
+
+rubytask:Ethnicity138 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo138;
+   rubytask:PercPopIrish2011 "94.17" .
+
+rubytask:Ethnicity139 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo139;
+   rubytask:PercPopIrish2011 "94.75" .
+
+rubytask:Ethnicity14 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo14;
+   rubytask:PercPopIrish2011 "87.29" .
+
+rubytask:Ethnicity140 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo140;
+   rubytask:PercPopIrish2011 "94.19" .
+
+rubytask:Ethnicity141 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo141;
+   rubytask:PercPopIrish2011 "92.55" .
+
+rubytask:Ethnicity142 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo142;
+   rubytask:PercPopIrish2011 "43" .
+
+rubytask:Ethnicity143 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo143;
+   rubytask:PercPopIrish2011 "41.17" .
+
+rubytask:Ethnicity144 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo144;
+   rubytask:PercPopIrish2011 "90.64" .
+
+rubytask:Ethnicity145 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo145;
+   rubytask:PercPopIrish2011 "89.08" .
+
+rubytask:Ethnicity146 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo146;
+   rubytask:PercPopIrish2011 "85.87" .
+
+rubytask:Ethnicity147 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo147;
+   rubytask:PercPopIrish2011 "84.88" .
+
+rubytask:Ethnicity148 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo148;
+   rubytask:PercPopIrish2011 "82.18" .
+
+rubytask:Ethnicity149 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo149;
+   rubytask:PercPopIrish2011 "86.54" .
+
+rubytask:Ethnicity15 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo15;
+   rubytask:PercPopIrish2011 "94.6" .
+
+rubytask:Ethnicity150 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo150;
+   rubytask:PercPopIrish2011 "96.14" .
+
+rubytask:Ethnicity151 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo151;
+   rubytask:PercPopIrish2011 "84.86" .
+
+rubytask:Ethnicity152 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo152;
+   rubytask:PercPopIrish2011 "91.12" .
+
+rubytask:Ethnicity153 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo153;
+   rubytask:PercPopIrish2011 "91.06" .
+
+rubytask:Ethnicity154 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo154;
+   rubytask:PercPopIrish2011 "87.79" .
+
+rubytask:Ethnicity155 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo155;
+   rubytask:PercPopIrish2011 "87.73" .
+
+rubytask:Ethnicity156 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo156;
+   rubytask:PercPopIrish2011 "87.96" .
+
+rubytask:Ethnicity157 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo157;
+   rubytask:PercPopIrish2011 "84.58" .
+
+rubytask:Ethnicity158 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo158;
+   rubytask:PercPopIrish2011 "97.02" .
+
+rubytask:Ethnicity159 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo159;
+   rubytask:PercPopIrish2011 "96.1" .
+
+rubytask:Ethnicity16 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo16;
+   rubytask:PercPopIrish2011 "97.26" .
+
+rubytask:Ethnicity160 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo160;
+   rubytask:PercPopIrish2011 "81.16" .
+
+rubytask:Ethnicity161 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo161;
+   rubytask:PercPopIrish2011 "85.57" .
+
+rubytask:Ethnicity162 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo162;
+   rubytask:PercPopIrish2011 "93.88" .
+
+rubytask:Ethnicity163 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo163;
+   rubytask:PercPopIrish2011 "77.13" .
+
+rubytask:Ethnicity164 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo164;
+   rubytask:PercPopIrish2011 "75.72" .
+
+rubytask:Ethnicity165 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo165;
+   rubytask:PercPopIrish2011 "93.12" .
+
+rubytask:Ethnicity166 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo166;
+   rubytask:PercPopIrish2011 "93.55" .
+
+rubytask:Ethnicity167 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo167;
+   rubytask:PercPopIrish2011 "82.16" .
+
+rubytask:Ethnicity168 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo168;
+   rubytask:PercPopIrish2011 "90.59" .
+
+rubytask:Ethnicity169 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo169;
+   rubytask:PercPopIrish2011 "90.3" .
+
+rubytask:Ethnicity17 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo17;
+   rubytask:PercPopIrish2011 "88.15" .
+
+rubytask:Ethnicity170 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo170;
+   rubytask:PercPopIrish2011 "97.11" .
+
+rubytask:Ethnicity171 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo171;
+   rubytask:PercPopIrish2011 "68.35" .
+
+rubytask:Ethnicity172 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo172;
+   rubytask:PercPopIrish2011 "57.84" .
+
+rubytask:Ethnicity173 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo173;
+   rubytask:PercPopIrish2011 "62.69" .
+
+rubytask:Ethnicity174 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo174;
+   rubytask:PercPopIrish2011 "51.87" .
+
+rubytask:Ethnicity175 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo175;
+   rubytask:PercPopIrish2011 "63.64" .
+
+rubytask:Ethnicity176 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo176;
+   rubytask:PercPopIrish2011 "81.87" .
+
+rubytask:Ethnicity177 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo177;
+   rubytask:PercPopIrish2011 "62.09" .
+
+rubytask:Ethnicity178 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo178;
+   rubytask:PercPopIrish2011 "67.35" .
+
+rubytask:Ethnicity179 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo179;
+   rubytask:PercPopIrish2011 "88.11" .
+
+rubytask:Ethnicity18 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo18;
+   rubytask:PercPopIrish2011 "95.24" .
+
+rubytask:Ethnicity180 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo180;
+   rubytask:PercPopIrish2011 "86.26" .
+
+rubytask:Ethnicity181 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo181;
+   rubytask:PercPopIrish2011 "84.48" .
+
+rubytask:Ethnicity182 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo182;
+   rubytask:PercPopIrish2011 "79.13" .
+
+rubytask:Ethnicity183 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo183;
+   rubytask:PercPopIrish2011 "74.16" .
+
+rubytask:Ethnicity184 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo184;
+   rubytask:PercPopIrish2011 "78.86" .
+
+rubytask:Ethnicity185 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo185;
+   rubytask:PercPopIrish2011 "75.03" .
+
+rubytask:Ethnicity186 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo186;
+   rubytask:PercPopIrish2011 "62.9" .
+
+rubytask:Ethnicity187 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo187;
+   rubytask:PercPopIrish2011 "85.73" .
+
+rubytask:Ethnicity188 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo188;
+   rubytask:PercPopIrish2011 "75" .
+
+rubytask:Ethnicity189 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo189;
+   rubytask:PercPopIrish2011 "83.43" .
+
+rubytask:Ethnicity19 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo19;
+   rubytask:PercPopIrish2011 "80.32" .
+
+rubytask:Ethnicity190 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo190;
+   rubytask:PercPopIrish2011 "87.16" .
+
+rubytask:Ethnicity191 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo191;
+   rubytask:PercPopIrish2011 "80.13" .
+
+rubytask:Ethnicity192 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo192;
+   rubytask:PercPopIrish2011 "65.87" .
+
+rubytask:Ethnicity193 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo193;
+   rubytask:PercPopIrish2011 "64.99" .
+
+rubytask:Ethnicity194 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo194;
+   rubytask:PercPopIrish2011 "77.79" .
+
+rubytask:Ethnicity195 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo195;
+   rubytask:PercPopIrish2011 "76.34" .
+
+rubytask:Ethnicity196 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo196;
+   rubytask:PercPopIrish2011 "79.83" .
+
+rubytask:Ethnicity197 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo197;
+   rubytask:PercPopIrish2011 "76.37" .
+
+rubytask:Ethnicity198 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo198;
+   rubytask:PercPopIrish2011 "48.57" .
+
+rubytask:Ethnicity199 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo199;
+   rubytask:PercPopIrish2011 "60.68" .
+
+rubytask:Ethnicity2 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo2;
+   rubytask:PercPopIrish2011 "85.4" .
+
+rubytask:Ethnicity20 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo20;
+   rubytask:PercPopIrish2011 "95.27" .
+
+rubytask:Ethnicity200 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo200;
+   rubytask:PercPopIrish2011 "56.71" .
+
+rubytask:Ethnicity201 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo201;
+   rubytask:PercPopIrish2011 "66.29" .
+
+rubytask:Ethnicity202 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo202;
+   rubytask:PercPopIrish2011 "84.8" .
+
+rubytask:Ethnicity203 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo203;
+   rubytask:PercPopIrish2011 "89.2" .
+
+rubytask:Ethnicity204 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo204;
+   rubytask:PercPopIrish2011 "94.09" .
+
+rubytask:Ethnicity205 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo205;
+   rubytask:PercPopIrish2011 "95.07" .
+
+rubytask:Ethnicity206 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo206;
+   rubytask:PercPopIrish2011 "57.33" .
+
+rubytask:Ethnicity207 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo207;
+   rubytask:PercPopIrish2011 "54.54" .
+
+rubytask:Ethnicity208 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo208;
+   rubytask:PercPopIrish2011 "68.35" .
+
+rubytask:Ethnicity209 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo209;
+   rubytask:PercPopIrish2011 "66.85" .
+
+rubytask:Ethnicity21 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo21;
+   rubytask:PercPopIrish2011 "94.26" .
+
+rubytask:Ethnicity210 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo210;
+   rubytask:PercPopIrish2011 "84.42" .
+
+rubytask:Ethnicity211 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo211;
+   rubytask:PercPopIrish2011 "78.17" .
+
+rubytask:Ethnicity212 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo212;
+   rubytask:PercPopIrish2011 "73.48" .
+
+rubytask:Ethnicity213 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo213;
+   rubytask:PercPopIrish2011 "89.89" .
+
+rubytask:Ethnicity214 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo214;
+   rubytask:PercPopIrish2011 "87.99" .
+
+rubytask:Ethnicity215 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo215;
+   rubytask:PercPopIrish2011 "79.44" .
+
+rubytask:Ethnicity216 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo216;
+   rubytask:PercPopIrish2011 "67.03" .
+
+rubytask:Ethnicity22 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo22;
+   rubytask:PercPopIrish2011 "94.48" .
+
+rubytask:Ethnicity23 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo23;
+   rubytask:PercPopIrish2011 "82.13" .
+
+rubytask:Ethnicity24 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo24;
+   rubytask:PercPopIrish2011 "94.16" .
+
+rubytask:Ethnicity25 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo25;
+   rubytask:PercPopIrish2011 "95.89" .
+
+rubytask:Ethnicity26 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo26;
+   rubytask:PercPopIrish2011 "91.23" .
+
+rubytask:Ethnicity27 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo27;
+   rubytask:PercPopIrish2011 "97.19" .
+
+rubytask:Ethnicity28 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo28;
+   rubytask:PercPopIrish2011 "96.88" .
+
+rubytask:Ethnicity286 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo286;
+   rubytask:PercPopIrish2011 "55.4" .
+
+rubytask:Ethnicity287 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo287;
+   rubytask:PercPopIrish2011 "76.46" .
+
+rubytask:Ethnicity288 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo288;
+   rubytask:PercPopIrish2011 "83.62" .
+
+rubytask:Ethnicity289 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo289;
+   rubytask:PercPopIrish2011 "89.05" .
+
+rubytask:Ethnicity29 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo29;
+   rubytask:PercPopIrish2011 "90.63" .
+
+rubytask:Ethnicity290 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo290;
+   rubytask:PercPopIrish2011 "88.82" .
+
+rubytask:Ethnicity291 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo291;
+   rubytask:PercPopIrish2011 "94.73" .
+
+rubytask:Ethnicity292 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo292;
+   rubytask:PercPopIrish2011 "96.23" .
+
+rubytask:Ethnicity293 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo293;
+   rubytask:PercPopIrish2011 "59.74" .
+
+rubytask:Ethnicity294 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo294;
+   rubytask:PercPopIrish2011 "73.76" .
+
+rubytask:Ethnicity295 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo295;
+   rubytask:PercPopIrish2011 "76.65" .
+
+rubytask:Ethnicity296 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo296;
+   rubytask:PercPopIrish2011 "88.25" .
+
+rubytask:Ethnicity297 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo297;
+   rubytask:PercPopIrish2011 "75.13" .
+
+rubytask:Ethnicity298 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo298;
+   rubytask:PercPopIrish2011 "66.67" .
+
+rubytask:Ethnicity299 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo299;
+   rubytask:PercPopIrish2011 "92.72" .
+
+rubytask:Ethnicity3 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo3;
+   rubytask:PercPopIrish2011 "94.45" .
+
+rubytask:Ethnicity30 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo30;
+   rubytask:PercPopIrish2011 "93.38" .
+
+rubytask:Ethnicity300 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo300;
+   rubytask:PercPopIrish2011 "78.37" .
+
+rubytask:Ethnicity301 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo301;
+   rubytask:PercPopIrish2011 "81.29" .
+
+rubytask:Ethnicity302 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo302;
+   rubytask:PercPopIrish2011 "86.11" .
+
+rubytask:Ethnicity303 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo303;
+   rubytask:PercPopIrish2011 "89.1" .
+
+rubytask:Ethnicity304 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo304;
+   rubytask:PercPopIrish2011 "87.61" .
+
+rubytask:Ethnicity305 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo305;
+   rubytask:PercPopIrish2011 "61.7" .
+
+rubytask:Ethnicity306 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo306;
+   rubytask:PercPopIrish2011 "90.66" .
+
+rubytask:Ethnicity307 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo307;
+   rubytask:PercPopIrish2011 "95.13" .
+
+rubytask:Ethnicity308 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo308;
+   rubytask:PercPopIrish2011 "95.97" .
+
+rubytask:Ethnicity309 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo309;
+   rubytask:PercPopIrish2011 "91.63" .
+
+rubytask:Ethnicity31 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo31;
+   rubytask:PercPopIrish2011 "97.49" .
+
+rubytask:Ethnicity310 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo310;
+   rubytask:PercPopIrish2011 "91.28" .
+
+rubytask:Ethnicity311 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo311;
+   rubytask:PercPopIrish2011 "81.14" .
+
+rubytask:Ethnicity312 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo312;
+   rubytask:PercPopIrish2011 "91.33" .
+
+rubytask:Ethnicity313 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo313;
+   rubytask:PercPopIrish2011 "85.47" .
+
+rubytask:Ethnicity314 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo314;
+   rubytask:PercPopIrish2011 "85.94" .
+
+rubytask:Ethnicity315 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo315;
+   rubytask:PercPopIrish2011 "91.57" .
+
+rubytask:Ethnicity316 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo316;
+   rubytask:PercPopIrish2011 "94.85" .
+
+rubytask:Ethnicity317 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo317;
+   rubytask:PercPopIrish2011 "90.28" .
+
+rubytask:Ethnicity318 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo318;
+   rubytask:PercPopIrish2011 "84.72" .
+
+rubytask:Ethnicity319 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo319;
+   rubytask:PercPopIrish2011 "89.98" .
+
+rubytask:Ethnicity32 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo32;
+   rubytask:PercPopIrish2011 "90.1" .
+
+rubytask:Ethnicity320 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo320;
+   rubytask:PercPopIrish2011 "91.78" .
+
+rubytask:Ethnicity328 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo328;
+   rubytask:PercPopIrish2011 "87.42" .
+
+rubytask:Ethnicity329 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo329;
+   rubytask:PercPopIrish2011 "93.92" .
+
+rubytask:Ethnicity33 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo33;
+   rubytask:PercPopIrish2011 "97.35" .
+
+rubytask:Ethnicity330 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo330;
+   rubytask:PercPopIrish2011 "92.32" .
+
+rubytask:Ethnicity331 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo331;
+   rubytask:PercPopIrish2011 "87.89" .
+
+rubytask:Ethnicity332 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo332;
+   rubytask:PercPopIrish2011 "89.99" .
+
+rubytask:Ethnicity333 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo333;
+   rubytask:PercPopIrish2011 "82.69" .
+
+rubytask:Ethnicity334 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo334;
+   rubytask:PercPopIrish2011 "74.33" .
+
+rubytask:Ethnicity335 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo335;
+   rubytask:PercPopIrish2011 "89.93" .
+
+rubytask:Ethnicity336 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo336;
+   rubytask:PercPopIrish2011 "93.81" .
+
+rubytask:Ethnicity337 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo337;
+   rubytask:PercPopIrish2011 "83.41" .
+
+rubytask:Ethnicity338 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo338;
+   rubytask:PercPopIrish2011 "92.06" .
+
+rubytask:Ethnicity339 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo339;
+   rubytask:PercPopIrish2011 "91.19" .
+
+rubytask:Ethnicity34 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo34;
+   rubytask:PercPopIrish2011 "87.74" .
+
+rubytask:Ethnicity340 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo340;
+   rubytask:PercPopIrish2011 "95.48" .
+
+rubytask:Ethnicity341 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo341;
+   rubytask:PercPopIrish2011 "87.35" .
+
+rubytask:Ethnicity342 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo342;
+   rubytask:PercPopIrish2011 "75.12" .
+
+rubytask:Ethnicity343 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo343;
+   rubytask:PercPopIrish2011 "88.39" .
+
+rubytask:Ethnicity344 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo344;
+   rubytask:PercPopIrish2011 "78.44" .
+
+rubytask:Ethnicity345 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo345;
+   rubytask:PercPopIrish2011 "87.32" .
+
+rubytask:Ethnicity346 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo346;
+   rubytask:PercPopIrish2011 "91.52" .
+
+rubytask:Ethnicity347 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo347;
+   rubytask:PercPopIrish2011 "91.7" .
+
+rubytask:Ethnicity348 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo348;
+   rubytask:PercPopIrish2011 "78.5" .
+
+rubytask:Ethnicity349 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo349;
+   rubytask:PercPopIrish2011 "96.59" .
+
+rubytask:Ethnicity35 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo35;
+   rubytask:PercPopIrish2011 "92.4" .
+
+rubytask:Ethnicity350 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo350;
+   rubytask:PercPopIrish2011 "92.97" .
+
+rubytask:Ethnicity351 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo351;
+   rubytask:PercPopIrish2011 "89.71" .
+
+rubytask:Ethnicity352 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo352;
+   rubytask:PercPopIrish2011 "91.39" .
+
+rubytask:Ethnicity353 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo353;
+   rubytask:PercPopIrish2011 "90.29" .
+
+rubytask:Ethnicity354 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo354;
+   rubytask:PercPopIrish2011 "74.38" .
+
+rubytask:Ethnicity355 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo355;
+   rubytask:PercPopIrish2011 "96.03" .
+
+rubytask:Ethnicity356 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo356;
+   rubytask:PercPopIrish2011 "84.2" .
+
+rubytask:Ethnicity357 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo357;
+   rubytask:PercPopIrish2011 "87.79" .
+
+rubytask:Ethnicity358 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo358;
+   rubytask:PercPopIrish2011 "77.78" .
+
+rubytask:Ethnicity359 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo359;
+   rubytask:PercPopIrish2011 "81.01" .
+
+rubytask:Ethnicity36 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo36;
+   rubytask:PercPopIrish2011 "96.99" .
+
+rubytask:Ethnicity360 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo360;
+   rubytask:PercPopIrish2011 "94.15" .
+
+rubytask:Ethnicity361 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo361;
+   rubytask:PercPopIrish2011 "94.49" .
+
+rubytask:Ethnicity362 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo362;
+   rubytask:PercPopIrish2011 "86.45" .
+
+rubytask:Ethnicity363 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo363;
+   rubytask:PercPopIrish2011 "87.33" .
+
+rubytask:Ethnicity364 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo364;
+   rubytask:PercPopIrish2011 "92.09" .
+
+rubytask:Ethnicity365 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo365;
+   rubytask:PercPopIrish2011 "85.14" .
+
+rubytask:Ethnicity366 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo366;
+   rubytask:PercPopIrish2011 "63.74" .
+
+rubytask:Ethnicity367 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo367;
+   rubytask:PercPopIrish2011 "92.93" .
+
+rubytask:Ethnicity368 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo368;
+   rubytask:PercPopIrish2011 "93.84" .
+
+rubytask:Ethnicity369 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo369;
+   rubytask:PercPopIrish2011 "92.94" .
+
+rubytask:Ethnicity37 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo37;
+   rubytask:PercPopIrish2011 "94" .
+
+rubytask:Ethnicity370 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo370;
+   rubytask:PercPopIrish2011 "94.23" .
+
+rubytask:Ethnicity371 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo371;
+   rubytask:PercPopIrish2011 "96.94" .
+
+rubytask:Ethnicity372 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo372;
+   rubytask:PercPopIrish2011 "95.99" .
+
+rubytask:Ethnicity373 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo373;
+   rubytask:PercPopIrish2011 "90.8" .
+
+rubytask:Ethnicity374 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo374;
+   rubytask:PercPopIrish2011 "90.92" .
+
+rubytask:Ethnicity375 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo375;
+   rubytask:PercPopIrish2011 "94.11" .
+
+rubytask:Ethnicity376 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo376;
+   rubytask:PercPopIrish2011 "95.2" .
+
+rubytask:Ethnicity38 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo38;
+   rubytask:PercPopIrish2011 "90.27" .
+
+rubytask:Ethnicity39 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo39;
+   rubytask:PercPopIrish2011 "94.88" .
+
+rubytask:Ethnicity4 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo4;
+   rubytask:PercPopIrish2011 "94.09" .
+
+rubytask:Ethnicity40 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo40;
+   rubytask:PercPopIrish2011 "94.61" .
+
+rubytask:Ethnicity41 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo41;
+   rubytask:PercPopIrish2011 "93.04" .
+
+rubytask:Ethnicity42 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo42;
+   rubytask:PercPopIrish2011 "95.6" .
+
+rubytask:Ethnicity43 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo43;
+   rubytask:PercPopIrish2011 "96.35" .
+
+rubytask:Ethnicity44 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo44;
+   rubytask:PercPopIrish2011 "91.16" .
+
+rubytask:Ethnicity45 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo45;
+   rubytask:PercPopIrish2011 "97" .
+
+rubytask:Ethnicity46 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo46;
+   rubytask:PercPopIrish2011 "87.74" .
+
+rubytask:Ethnicity47 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo47;
+   rubytask:PercPopIrish2011 "86.75" .
+
+rubytask:Ethnicity48 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo48;
+   rubytask:PercPopIrish2011 "77.85" .
+
+rubytask:Ethnicity49 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo49;
+   rubytask:PercPopIrish2011 "92.83" .
+
+rubytask:Ethnicity5 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo5;
+   rubytask:PercPopIrish2011 "96.91" .
+
+rubytask:Ethnicity50 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo50;
+   rubytask:PercPopIrish2011 "92.23" .
+
+rubytask:Ethnicity51 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo51;
+   rubytask:PercPopIrish2011 "94.75" .
+
+rubytask:Ethnicity52 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo52;
+   rubytask:PercPopIrish2011 "96.41" .
+
+rubytask:Ethnicity53 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo53;
+   rubytask:PercPopIrish2011 "96.4" .
+
+rubytask:Ethnicity54 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo54;
+   rubytask:PercPopIrish2011 "95.26" .
+
+rubytask:Ethnicity55 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo55;
+   rubytask:PercPopIrish2011 "59.06" .
+
+rubytask:Ethnicity56 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo56;
+   rubytask:PercPopIrish2011 "53.8" .
+
+rubytask:Ethnicity57 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo57;
+   rubytask:PercPopIrish2011 "50.37" .
+
+rubytask:Ethnicity58 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo58;
+   rubytask:PercPopIrish2011 "79.96" .
+
+rubytask:Ethnicity59 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo59;
+   rubytask:PercPopIrish2011 "81.22" .
+
+rubytask:Ethnicity6 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo6;
+   rubytask:PercPopIrish2011 "96.02" .
+
+rubytask:Ethnicity60 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo60;
+   rubytask:PercPopIrish2011 "79.01" .
+
+rubytask:Ethnicity61 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo61;
+   rubytask:PercPopIrish2011 "88.98" .
+
+rubytask:Ethnicity62 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo62;
+   rubytask:PercPopIrish2011 "92.68" .
+
+rubytask:Ethnicity63 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo63;
+   rubytask:PercPopIrish2011 "82.72" .
+
+rubytask:Ethnicity64 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo64;
+   rubytask:PercPopIrish2011 "61.31" .
+
+rubytask:Ethnicity65 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo65;
+   rubytask:PercPopIrish2011 "85.41" .
+
+rubytask:Ethnicity66 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo66;
+   rubytask:PercPopIrish2011 "93.45" .
+
+rubytask:Ethnicity67 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo67;
+   rubytask:PercPopIrish2011 "92.68" .
+
+rubytask:Ethnicity68 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo68;
+   rubytask:PercPopIrish2011 "92.48" .
+
+rubytask:Ethnicity69 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo69;
+   rubytask:PercPopIrish2011 "81.14" .
+
+rubytask:Ethnicity7 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo7;
+   rubytask:PercPopIrish2011 "94.11" .
+
+rubytask:Ethnicity70 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo70;
+   rubytask:PercPopIrish2011 "88.26" .
+
+rubytask:Ethnicity71 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo71;
+   rubytask:PercPopIrish2011 "86.99" .
+
+rubytask:Ethnicity72 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo72;
+   rubytask:PercPopIrish2011 "84.23" .
+
+rubytask:Ethnicity73 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo73;
+   rubytask:PercPopIrish2011 "93.91" .
+
+rubytask:Ethnicity74 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo74;
+   rubytask:PercPopIrish2011 "95.59" .
+
+rubytask:Ethnicity75 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo75;
+   rubytask:PercPopIrish2011 "92.49" .
+
+rubytask:Ethnicity76 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo76;
+   rubytask:PercPopIrish2011 "83.16" .
+
+rubytask:Ethnicity77 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo77;
+   rubytask:PercPopIrish2011 "89.45" .
+
+rubytask:Ethnicity78 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo78;
+   rubytask:PercPopIrish2011 "91.46" .
+
+rubytask:Ethnicity79 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo79;
+   rubytask:PercPopIrish2011 "89.94" .
+
+rubytask:Ethnicity8 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo8;
+   rubytask:PercPopIrish2011 "92.71" .
+
+rubytask:Ethnicity80 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo80;
+   rubytask:PercPopIrish2011 "86.21" .
+
+rubytask:Ethnicity81 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo81;
+   rubytask:PercPopIrish2011 "85.8" .
+
+rubytask:Ethnicity82 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo82;
+   rubytask:PercPopIrish2011 "85.48" .
+
+rubytask:Ethnicity83 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo83;
+   rubytask:PercPopIrish2011 "76.74" .
+
+rubytask:Ethnicity84 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo84;
+   rubytask:PercPopIrish2011 "71.22" .
+
+rubytask:Ethnicity85 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo85;
+   rubytask:PercPopIrish2011 "87.68" .
+
+rubytask:Ethnicity86 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo86;
+   rubytask:PercPopIrish2011 "72.23" .
+
+rubytask:Ethnicity87 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo87;
+   rubytask:PercPopIrish2011 "95.67" .
+
+rubytask:Ethnicity88 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo88;
+   rubytask:PercPopIrish2011 "94.14" .
+
+rubytask:Ethnicity89 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo89;
+   rubytask:PercPopIrish2011 "91.34" .
+
+rubytask:Ethnicity9 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo9;
+   rubytask:PercPopIrish2011 "95.22" .
+
+rubytask:Ethnicity90 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo90;
+   rubytask:PercPopIrish2011 "84.84" .
+
+rubytask:Ethnicity91 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo91;
+   rubytask:PercPopIrish2011 "92.94" .
+
+rubytask:Ethnicity92 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo92;
+   rubytask:PercPopIrish2011 "90.4" .
+
+rubytask:Ethnicity93 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo93;
+   rubytask:PercPopIrish2011 "92.35" .
+
+rubytask:Ethnicity94 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo94;
+   rubytask:PercPopIrish2011 "91.56" .
+
+rubytask:Ethnicity95 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo95;
+   rubytask:PercPopIrish2011 "91.38" .
+
+rubytask:Ethnicity96 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo96;
+   rubytask:PercPopIrish2011 "90.12" .
+
+rubytask:Ethnicity97 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo97;
+   rubytask:PercPopIrish2011 "93.41" .
+
+rubytask:Ethnicity98 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo98;
+   rubytask:PercPopIrish2011 "83.28" .
+
+rubytask:Ethnicity99 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo99;
+   rubytask:PercPopIrish2011 "76.29" .
+
+rubytask:Migration1 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo1;
+   rubytask:PercPopIEBirth2011 "79.51" .
+
+rubytask:Migration10 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo10;
+   rubytask:PercPopIEBirth2011 "91.58" .
+
+rubytask:Migration100 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo100;
+   rubytask:PercPopIEBirth2011 "88.06" .
+
+rubytask:Migration101 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo101;
+   rubytask:PercPopIEBirth2011 "79.42" .
+
+rubytask:Migration102 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo102;
+   rubytask:PercPopIEBirth2011 "79.31" .
+
+rubytask:Migration103 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo103;
+   rubytask:PercPopIEBirth2011 "88.36" .
+
+rubytask:Migration104 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo104;
+   rubytask:PercPopIEBirth2011 "91.14" .
+
+rubytask:Migration105 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo105;
+   rubytask:PercPopIEBirth2011 "94.44" .
+
+rubytask:Migration106 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo106;
+   rubytask:PercPopIEBirth2011 "93.48" .
+
+rubytask:Migration107 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo107;
+   rubytask:PercPopIEBirth2011 "88.39" .
+
+rubytask:Migration108 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo108;
+   rubytask:PercPopIEBirth2011 "93.67" .
+
+rubytask:Migration109 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo109;
+   rubytask:PercPopIEBirth2011 "84.89" .
+
+rubytask:Migration11 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo11;
+   rubytask:PercPopIEBirth2011 "94.5" .
+
+rubytask:Migration110 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo110;
+   rubytask:PercPopIEBirth2011 "94.93" .
+
+rubytask:Migration111 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo111;
+   rubytask:PercPopIEBirth2011 "94.68" .
+
+rubytask:Migration112 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo112;
+   rubytask:PercPopIEBirth2011 "87.25" .
+
+rubytask:Migration113 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo113;
+   rubytask:PercPopIEBirth2011 "85.86" .
+
+rubytask:Migration114 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo114;
+   rubytask:PercPopIEBirth2011 "78.64" .
+
+rubytask:Migration115 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo115;
+   rubytask:PercPopIEBirth2011 "92.72" .
+
+rubytask:Migration116 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo116;
+   rubytask:PercPopIEBirth2011 "87.77" .
+
+rubytask:Migration117 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo117;
+   rubytask:PercPopIEBirth2011 "89.12" .
+
+rubytask:Migration118 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo118;
+   rubytask:PercPopIEBirth2011 "91.12" .
+
+rubytask:Migration119 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo119;
+   rubytask:PercPopIEBirth2011 "88.59" .
+
+rubytask:Migration12 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo12;
+   rubytask:PercPopIEBirth2011 "91.65" .
+
+rubytask:Migration120 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo120;
+   rubytask:PercPopIEBirth2011 "71.36" .
+
+rubytask:Migration121 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo121;
+   rubytask:PercPopIEBirth2011 "54.83" .
+
+rubytask:Migration122 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo122;
+   rubytask:PercPopIEBirth2011 "62.89" .
+
+rubytask:Migration123 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo123;
+   rubytask:PercPopIEBirth2011 "84.25" .
+
+rubytask:Migration124 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo124;
+   rubytask:PercPopIEBirth2011 "90.85" .
+
+rubytask:Migration125 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo125;
+   rubytask:PercPopIEBirth2011 "94.48" .
+
+rubytask:Migration126 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo126;
+   rubytask:PercPopIEBirth2011 "92.27" .
+
+rubytask:Migration127 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo127;
+   rubytask:PercPopIEBirth2011 "54.92" .
+
+rubytask:Migration128 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo128;
+   rubytask:PercPopIEBirth2011 "48.29" .
+
+rubytask:Migration129 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo129;
+   rubytask:PercPopIEBirth2011 "33.52" .
+
+rubytask:Migration13 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo13;
+   rubytask:PercPopIEBirth2011 "91.4" .
+
+rubytask:Migration130 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo130;
+   rubytask:PercPopIEBirth2011 "77.12" .
+
+rubytask:Migration131 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo131;
+   rubytask:PercPopIEBirth2011 "65.21" .
+
+rubytask:Migration132 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo132;
+   rubytask:PercPopIEBirth2011 "65.89" .
+
+rubytask:Migration133 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo133;
+   rubytask:PercPopIEBirth2011 "71.84" .
+
+rubytask:Migration134 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo134;
+   rubytask:PercPopIEBirth2011 "92.88" .
+
+rubytask:Migration135 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo135;
+   rubytask:PercPopIEBirth2011 "94.3" .
+
+rubytask:Migration136 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo136;
+   rubytask:PercPopIEBirth2011 "86.38" .
+
+rubytask:Migration137 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo137;
+   rubytask:PercPopIEBirth2011 "91.45" .
+
+rubytask:Migration138 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo138;
+   rubytask:PercPopIEBirth2011 "92.32" .
+
+rubytask:Migration139 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo139;
+   rubytask:PercPopIEBirth2011 "91.03" .
+
+rubytask:Migration14 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo14;
+   rubytask:PercPopIEBirth2011 "85.45" .
+
+rubytask:Migration140 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo140;
+   rubytask:PercPopIEBirth2011 "90.07" .
+
+rubytask:Migration141 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo141;
+   rubytask:PercPopIEBirth2011 "88.12" .
+
+rubytask:Migration142 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo142;
+   rubytask:PercPopIEBirth2011 "48.87" .
+
+rubytask:Migration143 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo143;
+   rubytask:PercPopIEBirth2011 "42.76" .
+
+rubytask:Migration144 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo144;
+   rubytask:PercPopIEBirth2011 "86.67" .
+
+rubytask:Migration145 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo145;
+   rubytask:PercPopIEBirth2011 "85.11" .
+
+rubytask:Migration146 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo146;
+   rubytask:PercPopIEBirth2011 "83.81" .
+
+rubytask:Migration147 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo147;
+   rubytask:PercPopIEBirth2011 "81.98" .
+
+rubytask:Migration148 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo148;
+   rubytask:PercPopIEBirth2011 "78.74" .
+
+rubytask:Migration149 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo149;
+   rubytask:PercPopIEBirth2011 "84.28" .
+
+rubytask:Migration15 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo15;
+   rubytask:PercPopIEBirth2011 "91.55" .
+
+rubytask:Migration150 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo150;
+   rubytask:PercPopIEBirth2011 "95.25" .
+
+rubytask:Migration151 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo151;
+   rubytask:PercPopIEBirth2011 "84.8" .
+
+rubytask:Migration152 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo152;
+   rubytask:PercPopIEBirth2011 "90.12" .
+
+rubytask:Migration153 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo153;
+   rubytask:PercPopIEBirth2011 "89.87" .
+
+rubytask:Migration154 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo154;
+   rubytask:PercPopIEBirth2011 "88.45" .
+
+rubytask:Migration155 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo155;
+   rubytask:PercPopIEBirth2011 "85.92" .
+
+rubytask:Migration156 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo156;
+   rubytask:PercPopIEBirth2011 "87.89" .
+
+rubytask:Migration157 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo157;
+   rubytask:PercPopIEBirth2011 "82.66" .
+
+rubytask:Migration158 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo158;
+   rubytask:PercPopIEBirth2011 "95.69" .
+
+rubytask:Migration159 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo159;
+   rubytask:PercPopIEBirth2011 "94.46" .
+
+rubytask:Migration16 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo16;
+   rubytask:PercPopIEBirth2011 "95.14" .
+
+rubytask:Migration160 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo160;
+   rubytask:PercPopIEBirth2011 "79.97" .
+
+rubytask:Migration161 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo161;
+   rubytask:PercPopIEBirth2011 "85.78" .
+
+rubytask:Migration162 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo162;
+   rubytask:PercPopIEBirth2011 "91.39" .
+
+rubytask:Migration163 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo163;
+   rubytask:PercPopIEBirth2011 "74.03" .
+
+rubytask:Migration164 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo164;
+   rubytask:PercPopIEBirth2011 "75.09" .
+
+rubytask:Migration165 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo165;
+   rubytask:PercPopIEBirth2011 "93.06" .
+
+rubytask:Migration166 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo166;
+   rubytask:PercPopIEBirth2011 "91.31" .
+
+rubytask:Migration167 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo167;
+   rubytask:PercPopIEBirth2011 "78.33" .
+
+rubytask:Migration168 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo168;
+   rubytask:PercPopIEBirth2011 "88.11" .
+
+rubytask:Migration169 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo169;
+   rubytask:PercPopIEBirth2011 "89.36" .
+
+rubytask:Migration17 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo17;
+   rubytask:PercPopIEBirth2011 "84.39" .
+
+rubytask:Migration170 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo170;
+   rubytask:PercPopIEBirth2011 "95.67" .
+
+rubytask:Migration171 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo171;
+   rubytask:PercPopIEBirth2011 "69.75" .
+
+rubytask:Migration172 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo172;
+   rubytask:PercPopIEBirth2011 "61.81" .
+
+rubytask:Migration173 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo173;
+   rubytask:PercPopIEBirth2011 "62.38" .
+
+rubytask:Migration174 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo174;
+   rubytask:PercPopIEBirth2011 "50.89" .
+
+rubytask:Migration175 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo175;
+   rubytask:PercPopIEBirth2011 "62.61" .
+
+rubytask:Migration176 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo176;
+   rubytask:PercPopIEBirth2011 "78.9" .
+
+rubytask:Migration177 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo177;
+   rubytask:PercPopIEBirth2011 "58.99" .
+
+rubytask:Migration178 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo178;
+   rubytask:PercPopIEBirth2011 "66.51" .
+
+rubytask:Migration179 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo179;
+   rubytask:PercPopIEBirth2011 "87.62" .
+
+rubytask:Migration18 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo18;
+   rubytask:PercPopIEBirth2011 "91.56" .
+
+rubytask:Migration180 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo180;
+   rubytask:PercPopIEBirth2011 "80.03" .
+
+rubytask:Migration181 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo181;
+   rubytask:PercPopIEBirth2011 "78.05" .
+
+rubytask:Migration182 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo182;
+   rubytask:PercPopIEBirth2011 "74.96" .
+
+rubytask:Migration183 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo183;
+   rubytask:PercPopIEBirth2011 "70.19" .
+
+rubytask:Migration184 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo184;
+   rubytask:PercPopIEBirth2011 "75.16" .
+
+rubytask:Migration185 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo185;
+   rubytask:PercPopIEBirth2011 "71.9" .
+
+rubytask:Migration186 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo186;
+   rubytask:PercPopIEBirth2011 "69.06" .
+
+rubytask:Migration187 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo187;
+   rubytask:PercPopIEBirth2011 "78.32" .
+
+rubytask:Migration188 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo188;
+   rubytask:PercPopIEBirth2011 "71.17" .
+
+rubytask:Migration189 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo189;
+   rubytask:PercPopIEBirth2011 "76.94" .
+
+rubytask:Migration19 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo19;
+   rubytask:PercPopIEBirth2011 "78.05" .
+
+rubytask:Migration190 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo190;
+   rubytask:PercPopIEBirth2011 "80.79" .
+
+rubytask:Migration191 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo191;
+   rubytask:PercPopIEBirth2011 "74.04" .
+
+rubytask:Migration192 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo192;
+   rubytask:PercPopIEBirth2011 "64.16" .
+
+rubytask:Migration193 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo193;
+   rubytask:PercPopIEBirth2011 "63.89" .
+
+rubytask:Migration194 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo194;
+   rubytask:PercPopIEBirth2011 "72.53" .
+
+rubytask:Migration195 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo195;
+   rubytask:PercPopIEBirth2011 "71.72" .
+
+rubytask:Migration196 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo196;
+   rubytask:PercPopIEBirth2011 "73.25" .
+
+rubytask:Migration197 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo197;
+   rubytask:PercPopIEBirth2011 "70.09" .
+
+rubytask:Migration198 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo198;
+   rubytask:PercPopIEBirth2011 "50.2" .
+
+rubytask:Migration199 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo199;
+   rubytask:PercPopIEBirth2011 "67.91" .
+
+rubytask:Migration2 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo2;
+   rubytask:PercPopIEBirth2011 "84.76" .
+
+rubytask:Migration20 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo20;
+   rubytask:PercPopIEBirth2011 "91.95" .
+
+rubytask:Migration200 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo200;
+   rubytask:PercPopIEBirth2011 "57.6" .
+
+rubytask:Migration201 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo201;
+   rubytask:PercPopIEBirth2011 "64.4" .
+
+rubytask:Migration202 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo202;
+   rubytask:PercPopIEBirth2011 "80.97" .
+
+rubytask:Migration203 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo203;
+   rubytask:PercPopIEBirth2011 "85.29" .
+
+rubytask:Migration204 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo204;
+   rubytask:PercPopIEBirth2011 "88.44" .
+
+rubytask:Migration205 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo205;
+   rubytask:PercPopIEBirth2011 "88.46" .
+
+rubytask:Migration206 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo206;
+   rubytask:PercPopIEBirth2011 "55.31" .
+
+rubytask:Migration207 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo207;
+   rubytask:PercPopIEBirth2011 "55.56" .
+
+rubytask:Migration208 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo208;
+   rubytask:PercPopIEBirth2011 "71.06" .
+
+rubytask:Migration209 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo209;
+   rubytask:PercPopIEBirth2011 "65.43" .
+
+rubytask:Migration21 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo21;
+   rubytask:PercPopIEBirth2011 "92" .
+
+rubytask:Migration210 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo210;
+   rubytask:PercPopIEBirth2011 "83.15" .
+
+rubytask:Migration211 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo211;
+   rubytask:PercPopIEBirth2011 "79.67" .
+
+rubytask:Migration212 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo212;
+   rubytask:PercPopIEBirth2011 "74.4" .
+
+rubytask:Migration213 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo213;
+   rubytask:PercPopIEBirth2011 "88.41" .
+
+rubytask:Migration214 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo214;
+   rubytask:PercPopIEBirth2011 "89.65" .
+
+rubytask:Migration215 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo215;
+   rubytask:PercPopIEBirth2011 "82.86" .
+
+rubytask:Migration216 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo216;
+   rubytask:PercPopIEBirth2011 "63.71" .
+
+rubytask:Migration22 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo22;
+   rubytask:PercPopIEBirth2011 "92" .
+
+rubytask:Migration23 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo23;
+   rubytask:PercPopIEBirth2011 "81.09" .
+
+rubytask:Migration24 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo24;
+   rubytask:PercPopIEBirth2011 "92.12" .
+
+rubytask:Migration25 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo25;
+   rubytask:PercPopIEBirth2011 "91.78" .
+
+rubytask:Migration26 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo26;
+   rubytask:PercPopIEBirth2011 "88.63" .
+
+rubytask:Migration27 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo27;
+   rubytask:PercPopIEBirth2011 "94.9" .
+
+rubytask:Migration28 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo28;
+   rubytask:PercPopIEBirth2011 "92.25" .
+
+rubytask:Migration286 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo286;
+   rubytask:PercPopIEBirth2011 "54.85" .
+
+rubytask:Migration287 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo287;
+   rubytask:PercPopIEBirth2011 "72.97" .
+
+rubytask:Migration288 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo288;
+   rubytask:PercPopIEBirth2011 "80.52" .
+
+rubytask:Migration289 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo289;
+   rubytask:PercPopIEBirth2011 "86.4" .
+
+rubytask:Migration29 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo29;
+   rubytask:PercPopIEBirth2011 "89.06" .
+
+rubytask:Migration290 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo290;
+   rubytask:PercPopIEBirth2011 "84.67" .
+
+rubytask:Migration291 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo291;
+   rubytask:PercPopIEBirth2011 "93.64" .
+
+rubytask:Migration292 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo292;
+   rubytask:PercPopIEBirth2011 "91.87" .
+
+rubytask:Migration293 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo293;
+   rubytask:PercPopIEBirth2011 "57.44" .
+
+rubytask:Migration294 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo294;
+   rubytask:PercPopIEBirth2011 "71.2" .
+
+rubytask:Migration295 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo295;
+   rubytask:PercPopIEBirth2011 "73.91" .
+
+rubytask:Migration296 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo296;
+   rubytask:PercPopIEBirth2011 "86.02" .
+
+rubytask:Migration297 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo297;
+   rubytask:PercPopIEBirth2011 "72.82" .
+
+rubytask:Migration298 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo298;
+   rubytask:PercPopIEBirth2011 "62.61" .
+
+rubytask:Migration299 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo299;
+   rubytask:PercPopIEBirth2011 "87.85" .
+
+rubytask:Migration3 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo3;
+   rubytask:PercPopIEBirth2011 "92.67" .
+
+rubytask:Migration30 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo30;
+   rubytask:PercPopIEBirth2011 "89.13" .
+
+rubytask:Migration300 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo300;
+   rubytask:PercPopIEBirth2011 "71.37" .
+
+rubytask:Migration301 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo301;
+   rubytask:PercPopIEBirth2011 "76.42" .
+
+rubytask:Migration302 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo302;
+   rubytask:PercPopIEBirth2011 "80.86" .
+
+rubytask:Migration303 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo303;
+   rubytask:PercPopIEBirth2011 "89.1" .
+
+rubytask:Migration304 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo304;
+   rubytask:PercPopIEBirth2011 "83.28" .
+
+rubytask:Migration305 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo305;
+   rubytask:PercPopIEBirth2011 "62.97" .
+
+rubytask:Migration306 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo306;
+   rubytask:PercPopIEBirth2011 "86.9" .
+
+rubytask:Migration307 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo307;
+   rubytask:PercPopIEBirth2011 "92.33" .
+
+rubytask:Migration308 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo308;
+   rubytask:PercPopIEBirth2011 "92.37" .
+
+rubytask:Migration309 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo309;
+   rubytask:PercPopIEBirth2011 "85.46" .
+
+rubytask:Migration31 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo31;
+   rubytask:PercPopIEBirth2011 "94.71" .
+
+rubytask:Migration310 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo310;
+   rubytask:PercPopIEBirth2011 "91.23" .
+
+rubytask:Migration311 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo311;
+   rubytask:PercPopIEBirth2011 "78.42" .
+
+rubytask:Migration312 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo312;
+   rubytask:PercPopIEBirth2011 "84.96" .
+
+rubytask:Migration313 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo313;
+   rubytask:PercPopIEBirth2011 "82.99" .
+
+rubytask:Migration314 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo314;
+   rubytask:PercPopIEBirth2011 "80.67" .
+
+rubytask:Migration315 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo315;
+   rubytask:PercPopIEBirth2011 "86.05" .
+
+rubytask:Migration316 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo316;
+   rubytask:PercPopIEBirth2011 "89.63" .
+
+rubytask:Migration317 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo317;
+   rubytask:PercPopIEBirth2011 "85.89" .
+
+rubytask:Migration318 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo318;
+   rubytask:PercPopIEBirth2011 "82.33" .
+
+rubytask:Migration319 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo319;
+   rubytask:PercPopIEBirth2011 "85" .
+
+rubytask:Migration32 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo32;
+   rubytask:PercPopIEBirth2011 "88.81" .
+
+rubytask:Migration320 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo320;
+   rubytask:PercPopIEBirth2011 "86.62" .
+
+rubytask:Migration328 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo328;
+   rubytask:PercPopIEBirth2011 "83.56" .
+
+rubytask:Migration329 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo329;
+   rubytask:PercPopIEBirth2011 "89.56" .
+
+rubytask:Migration33 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo33;
+   rubytask:PercPopIEBirth2011 "93.3" .
+
+rubytask:Migration330 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo330;
+   rubytask:PercPopIEBirth2011 "89.65" .
+
+rubytask:Migration331 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo331;
+   rubytask:PercPopIEBirth2011 "85.71" .
+
+rubytask:Migration332 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo332;
+   rubytask:PercPopIEBirth2011 "86.91" .
+
+rubytask:Migration333 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo333;
+   rubytask:PercPopIEBirth2011 "81.39" .
+
+rubytask:Migration334 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo334;
+   rubytask:PercPopIEBirth2011 "72.94" .
+
+rubytask:Migration335 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo335;
+   rubytask:PercPopIEBirth2011 "89.77" .
+
+rubytask:Migration336 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo336;
+   rubytask:PercPopIEBirth2011 "94.18" .
+
+rubytask:Migration337 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo337;
+   rubytask:PercPopIEBirth2011 "81.8" .
+
+rubytask:Migration338 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo338;
+   rubytask:PercPopIEBirth2011 "87.91" .
+
+rubytask:Migration339 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo339;
+   rubytask:PercPopIEBirth2011 "86.87" .
+
+rubytask:Migration34 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo34;
+   rubytask:PercPopIEBirth2011 "85.86" .
+
+rubytask:Migration340 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo340;
+   rubytask:PercPopIEBirth2011 "92.27" .
+
+rubytask:Migration341 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo341;
+   rubytask:PercPopIEBirth2011 "83.25" .
+
+rubytask:Migration342 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo342;
+   rubytask:PercPopIEBirth2011 "71.51" .
+
+rubytask:Migration343 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo343;
+   rubytask:PercPopIEBirth2011 "84.76" .
+
+rubytask:Migration344 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo344;
+   rubytask:PercPopIEBirth2011 "74.68" .
+
+rubytask:Migration345 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo345;
+   rubytask:PercPopIEBirth2011 "85.36" .
+
+rubytask:Migration346 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo346;
+   rubytask:PercPopIEBirth2011 "89.79" .
+
+rubytask:Migration347 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo347;
+   rubytask:PercPopIEBirth2011 "90.03" .
+
+rubytask:Migration348 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo348;
+   rubytask:PercPopIEBirth2011 "85.9" .
+
+rubytask:Migration349 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo349;
+   rubytask:PercPopIEBirth2011 "92.12" .
+
+rubytask:Migration35 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo35;
+   rubytask:PercPopIEBirth2011 "89.42" .
+
+rubytask:Migration350 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo350;
+   rubytask:PercPopIEBirth2011 "88.72" .
+
+rubytask:Migration351 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo351;
+   rubytask:PercPopIEBirth2011 "84.42" .
+
+rubytask:Migration352 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo352;
+   rubytask:PercPopIEBirth2011 "87.64" .
+
+rubytask:Migration353 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo353;
+   rubytask:PercPopIEBirth2011 "85.89" .
+
+rubytask:Migration354 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo354;
+   rubytask:PercPopIEBirth2011 "72.84" .
+
+rubytask:Migration355 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo355;
+   rubytask:PercPopIEBirth2011 "92.12" .
+
+rubytask:Migration356 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo356;
+   rubytask:PercPopIEBirth2011 "82.78" .
+
+rubytask:Migration357 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo357;
+   rubytask:PercPopIEBirth2011 "85.31" .
+
+rubytask:Migration358 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo358;
+   rubytask:PercPopIEBirth2011 "76.2" .
+
+rubytask:Migration359 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo359;
+   rubytask:PercPopIEBirth2011 "79.3" .
+
+rubytask:Migration36 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo36;
+   rubytask:PercPopIEBirth2011 "95.48" .
+
+rubytask:Migration360 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo360;
+   rubytask:PercPopIEBirth2011 "91.62" .
+
+rubytask:Migration361 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo361;
+   rubytask:PercPopIEBirth2011 "92.08" .
+
+rubytask:Migration362 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo362;
+   rubytask:PercPopIEBirth2011 "83.77" .
+
+rubytask:Migration363 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo363;
+   rubytask:PercPopIEBirth2011 "85.46" .
+
+rubytask:Migration364 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo364;
+   rubytask:PercPopIEBirth2011 "90.35" .
+
+rubytask:Migration365 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo365;
+   rubytask:PercPopIEBirth2011 "82.5" .
+
+rubytask:Migration366 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo366;
+   rubytask:PercPopIEBirth2011 "64.06" .
+
+rubytask:Migration367 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo367;
+   rubytask:PercPopIEBirth2011 "90.63" .
+
+rubytask:Migration368 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo368;
+   rubytask:PercPopIEBirth2011 "90.93" .
+
+rubytask:Migration369 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo369;
+   rubytask:PercPopIEBirth2011 "88.31" .
+
+rubytask:Migration37 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo37;
+   rubytask:PercPopIEBirth2011 "91.18" .
+
+rubytask:Migration370 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo370;
+   rubytask:PercPopIEBirth2011 "91.16" .
+
+rubytask:Migration371 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo371;
+   rubytask:PercPopIEBirth2011 "93.26" .
+
+rubytask:Migration372 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo372;
+   rubytask:PercPopIEBirth2011 "93.87" .
+
+rubytask:Migration373 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo373;
+   rubytask:PercPopIEBirth2011 "86.12" .
+
+rubytask:Migration374 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo374;
+   rubytask:PercPopIEBirth2011 "88.92" .
+
+rubytask:Migration375 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo375;
+   rubytask:PercPopIEBirth2011 "91.37" .
+
+rubytask:Migration376 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo376;
+   rubytask:PercPopIEBirth2011 "94.05" .
+
+rubytask:Migration38 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo38;
+   rubytask:PercPopIEBirth2011 "85.84" .
+
+rubytask:Migration39 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo39;
+   rubytask:PercPopIEBirth2011 "92.56" .
+
+rubytask:Migration4 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo4;
+   rubytask:PercPopIEBirth2011 "93.26" .
+
+rubytask:Migration40 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo40;
+   rubytask:PercPopIEBirth2011 "92.51" .
+
+rubytask:Migration41 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo41;
+   rubytask:PercPopIEBirth2011 "90.84" .
+
+rubytask:Migration42 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo42;
+   rubytask:PercPopIEBirth2011 "90.06" .
+
+rubytask:Migration43 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo43;
+   rubytask:PercPopIEBirth2011 "93.27" .
+
+rubytask:Migration44 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo44;
+   rubytask:PercPopIEBirth2011 "89.07" .
+
+rubytask:Migration45 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo45;
+   rubytask:PercPopIEBirth2011 "93.55" .
+
+rubytask:Migration46 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo46;
+   rubytask:PercPopIEBirth2011 "88.08" .
+
+rubytask:Migration47 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo47;
+   rubytask:PercPopIEBirth2011 "90.25" .
+
+rubytask:Migration48 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo48;
+   rubytask:PercPopIEBirth2011 "78.29" .
+
+rubytask:Migration49 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo49;
+   rubytask:PercPopIEBirth2011 "92.11" .
+
+rubytask:Migration5 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo5;
+   rubytask:PercPopIEBirth2011 "94.98" .
+
+rubytask:Migration50 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo50;
+   rubytask:PercPopIEBirth2011 "89.81" .
+
+rubytask:Migration51 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo51;
+   rubytask:PercPopIEBirth2011 "91.44" .
+
+rubytask:Migration52 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo52;
+   rubytask:PercPopIEBirth2011 "94.91" .
+
+rubytask:Migration53 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo53;
+   rubytask:PercPopIEBirth2011 "95.57" .
+
+rubytask:Migration54 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo54;
+   rubytask:PercPopIEBirth2011 "89.3" .
+
+rubytask:Migration55 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo55;
+   rubytask:PercPopIEBirth2011 "57.28" .
+
+rubytask:Migration56 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo56;
+   rubytask:PercPopIEBirth2011 "50.81" .
+
+rubytask:Migration57 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo57;
+   rubytask:PercPopIEBirth2011 "48.44" .
+
+rubytask:Migration58 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo58;
+   rubytask:PercPopIEBirth2011 "77.14" .
+
+rubytask:Migration59 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo59;
+   rubytask:PercPopIEBirth2011 "78.03" .
+
+rubytask:Migration6 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo6;
+   rubytask:PercPopIEBirth2011 "92.66" .
+
+rubytask:Migration60 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo60;
+   rubytask:PercPopIEBirth2011 "77.22" .
+
+rubytask:Migration61 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo61;
+   rubytask:PercPopIEBirth2011 "85.08" .
+
+rubytask:Migration62 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo62;
+   rubytask:PercPopIEBirth2011 "90.38" .
+
+rubytask:Migration63 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo63;
+   rubytask:PercPopIEBirth2011 "81.94" .
+
+rubytask:Migration64 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo64;
+   rubytask:PercPopIEBirth2011 "59.42" .
+
+rubytask:Migration65 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo65;
+   rubytask:PercPopIEBirth2011 "85.17" .
+
+rubytask:Migration66 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo66;
+   rubytask:PercPopIEBirth2011 "91.32" .
+
+rubytask:Migration67 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo67;
+   rubytask:PercPopIEBirth2011 "90.54" .
+
+rubytask:Migration68 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo68;
+   rubytask:PercPopIEBirth2011 "90.7" .
+
+rubytask:Migration69 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo69;
+   rubytask:PercPopIEBirth2011 "80.52" .
+
+rubytask:Migration7 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo7;
+   rubytask:PercPopIEBirth2011 "91.39" .
+
+rubytask:Migration70 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo70;
+   rubytask:PercPopIEBirth2011 "88.14" .
+
+rubytask:Migration71 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo71;
+   rubytask:PercPopIEBirth2011 "86.15" .
+
+rubytask:Migration72 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo72;
+   rubytask:PercPopIEBirth2011 "84.26" .
+
+rubytask:Migration73 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo73;
+   rubytask:PercPopIEBirth2011 "91.47" .
+
+rubytask:Migration74 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo74;
+   rubytask:PercPopIEBirth2011 "93.34" .
+
+rubytask:Migration75 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo75;
+   rubytask:PercPopIEBirth2011 "88.93" .
+
+rubytask:Migration76 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo76;
+   rubytask:PercPopIEBirth2011 "80.81" .
+
+rubytask:Migration77 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo77;
+   rubytask:PercPopIEBirth2011 "87.02" .
+
+rubytask:Migration78 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo78;
+   rubytask:PercPopIEBirth2011 "88.84" .
+
+rubytask:Migration79 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo79;
+   rubytask:PercPopIEBirth2011 "87.22" .
+
+rubytask:Migration8 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo8;
+   rubytask:PercPopIEBirth2011 "90.32" .
+
+rubytask:Migration80 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo80;
+   rubytask:PercPopIEBirth2011 "83.72" .
+
+rubytask:Migration81 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo81;
+   rubytask:PercPopIEBirth2011 "83.18" .
+
+rubytask:Migration82 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo82;
+   rubytask:PercPopIEBirth2011 "81.3" .
+
+rubytask:Migration83 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo83;
+   rubytask:PercPopIEBirth2011 "73.59" .
+
+rubytask:Migration84 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo84;
+   rubytask:PercPopIEBirth2011 "68.22" .
+
+rubytask:Migration85 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo85;
+   rubytask:PercPopIEBirth2011 "86.27" .
+
+rubytask:Migration86 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo86;
+   rubytask:PercPopIEBirth2011 "70.36" .
+
+rubytask:Migration87 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo87;
+   rubytask:PercPopIEBirth2011 "93.37" .
+
+rubytask:Migration88 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo88;
+   rubytask:PercPopIEBirth2011 "92.86" .
+
+rubytask:Migration89 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo89;
+   rubytask:PercPopIEBirth2011 "90.37" .
+
+rubytask:Migration9 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo9;
+   rubytask:PercPopIEBirth2011 "93.43" .
+
+rubytask:Migration90 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo90;
+   rubytask:PercPopIEBirth2011 "81.95" .
+
+rubytask:Migration91 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo91;
+   rubytask:PercPopIEBirth2011 "89.71" .
+
+rubytask:Migration92 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo92;
+   rubytask:PercPopIEBirth2011 "85.56" .
+
+rubytask:Migration93 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo93;
+   rubytask:PercPopIEBirth2011 "87.34" .
+
+rubytask:Migration94 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo94;
+   rubytask:PercPopIEBirth2011 "86.76" .
+
+rubytask:Migration95 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo95;
+   rubytask:PercPopIEBirth2011 "87.7" .
+
+rubytask:Migration96 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo96;
+   rubytask:PercPopIEBirth2011 "87.75" .
+
+rubytask:Migration97 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo97;
+   rubytask:PercPopIEBirth2011 "90.9" .
+
+rubytask:Migration98 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo98;
+   rubytask:PercPopIEBirth2011 "80.17" .
+
+rubytask:Migration99 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo99;
+   rubytask:PercPopIEBirth2011 "73.04" .
+
+rubytask:Religion1 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo1;
+   rubytask:PercPopCatholic2011 "81.27" .
+
+rubytask:Religion10 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo10;
+   rubytask:PercPopCatholic2011 "83.16" .
+
+rubytask:Religion100 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo100;
+   rubytask:PercPopCatholic2011 "80.25" .
+
+rubytask:Religion101 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo101;
+   rubytask:PercPopCatholic2011 "73.64" .
+
+rubytask:Religion102 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo102;
+   rubytask:PercPopCatholic2011 "76.34" .
+
+rubytask:Religion103 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo103;
+   rubytask:PercPopCatholic2011 "81.76" .
+
+rubytask:Religion104 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo104;
+   rubytask:PercPopCatholic2011 "89.36" .
+
+rubytask:Religion105 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo105;
+   rubytask:PercPopCatholic2011 "92.84" .
+
+rubytask:Religion106 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo106;
+   rubytask:PercPopCatholic2011 "90.82" .
+
+rubytask:Religion107 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo107;
+   rubytask:PercPopCatholic2011 "86.54" .
+
+rubytask:Religion108 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo108;
+   rubytask:PercPopCatholic2011 "91.38" .
+
+rubytask:Religion109 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo109;
+   rubytask:PercPopCatholic2011 "85.81" .
+
+rubytask:Religion11 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo11;
+   rubytask:PercPopCatholic2011 "91.36" .
+
+rubytask:Religion110 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo110;
+   rubytask:PercPopCatholic2011 "93.78" .
+
+rubytask:Religion111 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo111;
+   rubytask:PercPopCatholic2011 "91.82" .
+
+rubytask:Religion112 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo112;
+   rubytask:PercPopCatholic2011 "84.83" .
+
+rubytask:Religion113 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo113;
+   rubytask:PercPopCatholic2011 "85.4" .
+
+rubytask:Religion114 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo114;
+   rubytask:PercPopCatholic2011 "80.96" .
+
+rubytask:Religion115 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo115;
+   rubytask:PercPopCatholic2011 "91.24" .
+
+rubytask:Religion116 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo116;
+   rubytask:PercPopCatholic2011 "84.07" .
+
+rubytask:Religion117 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo117;
+   rubytask:PercPopCatholic2011 "86.59" .
+
+rubytask:Religion118 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo118;
+   rubytask:PercPopCatholic2011 "89.16" .
+
+rubytask:Religion119 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo119;
+   rubytask:PercPopCatholic2011 "87.85" .
+
+rubytask:Religion12 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo12;
+   rubytask:PercPopCatholic2011 "88.76" .
+
+rubytask:Religion120 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo120;
+   rubytask:PercPopCatholic2011 "62.52" .
+
+rubytask:Religion121 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo121;
+   rubytask:PercPopCatholic2011 "53.83" .
+
+rubytask:Religion122 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo122;
+   rubytask:PercPopCatholic2011 "61.76" .
+
+rubytask:Religion123 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo123;
+   rubytask:PercPopCatholic2011 "87.53" .
+
+rubytask:Religion124 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo124;
+   rubytask:PercPopCatholic2011 "91.69" .
+
+rubytask:Religion125 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo125;
+   rubytask:PercPopCatholic2011 "93.92" .
+
+rubytask:Religion126 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo126;
+   rubytask:PercPopCatholic2011 "89.43" .
+
+rubytask:Religion127 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo127;
+   rubytask:PercPopCatholic2011 "55.84" .
+
+rubytask:Religion128 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo128;
+   rubytask:PercPopCatholic2011 "56.3" .
+
+rubytask:Religion129 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo129;
+   rubytask:PercPopCatholic2011 "40.28" .
+
+rubytask:Religion13 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo13;
+   rubytask:PercPopCatholic2011 "81.4" .
+
+rubytask:Religion130 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo130;
+   rubytask:PercPopCatholic2011 "67.23" .
+
+rubytask:Religion131 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo131;
+   rubytask:PercPopCatholic2011 "68.09" .
+
+rubytask:Religion132 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo132;
+   rubytask:PercPopCatholic2011 "67.89" .
+
+rubytask:Religion133 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo133;
+   rubytask:PercPopCatholic2011 "71.13" .
+
+rubytask:Religion134 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo134;
+   rubytask:PercPopCatholic2011 "93.34" .
+
+rubytask:Religion135 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo135;
+   rubytask:PercPopCatholic2011 "90.5" .
+
+rubytask:Religion136 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo136;
+   rubytask:PercPopCatholic2011 "84.75" .
+
+rubytask:Religion137 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo137;
+   rubytask:PercPopCatholic2011 "90.03" .
+
+rubytask:Religion138 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo138;
+   rubytask:PercPopCatholic2011 "89.79" .
+
+rubytask:Religion139 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo139;
+   rubytask:PercPopCatholic2011 "86.29" .
+
+rubytask:Religion14 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo14;
+   rubytask:PercPopCatholic2011 "90.14" .
+
+rubytask:Religion140 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo140;
+   rubytask:PercPopCatholic2011 "88.06" .
+
+rubytask:Religion141 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo141;
+   rubytask:PercPopCatholic2011 "84" .
+
+rubytask:Religion142 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo142;
+   rubytask:PercPopCatholic2011 "46.49" .
+
+rubytask:Religion143 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo143;
+   rubytask:PercPopCatholic2011 "50.47" .
+
+rubytask:Religion144 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo144;
+   rubytask:PercPopCatholic2011 "82.03" .
+
+rubytask:Religion145 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo145;
+   rubytask:PercPopCatholic2011 "82.91" .
+
+rubytask:Religion146 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo146;
+   rubytask:PercPopCatholic2011 "80.59" .
+
+rubytask:Religion147 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo147;
+   rubytask:PercPopCatholic2011 "79.2" .
+
+rubytask:Religion148 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo148;
+   rubytask:PercPopCatholic2011 "75.78" .
+
+rubytask:Religion149 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo149;
+   rubytask:PercPopCatholic2011 "85.74" .
+
+rubytask:Religion15 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo15;
+   rubytask:PercPopCatholic2011 "87.12" .
+
+rubytask:Religion150 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo150;
+   rubytask:PercPopCatholic2011 "91.97" .
+
+rubytask:Religion151 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo151;
+   rubytask:PercPopCatholic2011 "84.07" .
+
+rubytask:Religion152 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo152;
+   rubytask:PercPopCatholic2011 "87.14" .
+
+rubytask:Religion153 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo153;
+   rubytask:PercPopCatholic2011 "83.98" .
+
+rubytask:Religion154 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo154;
+   rubytask:PercPopCatholic2011 "81.76" .
+
+rubytask:Religion155 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo155;
+   rubytask:PercPopCatholic2011 "83.19" .
+
+rubytask:Religion156 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo156;
+   rubytask:PercPopCatholic2011 "83.22" .
+
+rubytask:Religion157 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo157;
+   rubytask:PercPopCatholic2011 "83.07" .
+
+rubytask:Religion158 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo158;
+   rubytask:PercPopCatholic2011 "91.49" .
+
+rubytask:Religion159 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo159;
+   rubytask:PercPopCatholic2011 "91.45" .
+
+rubytask:Religion16 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo16;
+   rubytask:PercPopCatholic2011 "81.16" .
+
+rubytask:Religion160 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo160;
+   rubytask:PercPopCatholic2011 "78.1" .
+
+rubytask:Religion161 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo161;
+   rubytask:PercPopCatholic2011 "84.24" .
+
+rubytask:Religion162 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo162;
+   rubytask:PercPopCatholic2011 "87.34" .
+
+rubytask:Religion163 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo163;
+   rubytask:PercPopCatholic2011 "66.23" .
+
+rubytask:Religion164 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo164;
+   rubytask:PercPopCatholic2011 "73.34" .
+
+rubytask:Religion165 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo165;
+   rubytask:PercPopCatholic2011 "87.02" .
+
+rubytask:Religion166 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo166;
+   rubytask:PercPopCatholic2011 "88.78" .
+
+rubytask:Religion167 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo167;
+   rubytask:PercPopCatholic2011 "73.27" .
+
+rubytask:Religion168 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo168;
+   rubytask:PercPopCatholic2011 "82.73" .
+
+rubytask:Religion169 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo169;
+   rubytask:PercPopCatholic2011 "81.21" .
+
+rubytask:Religion17 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo17;
+   rubytask:PercPopCatholic2011 "91.55" .
+
+rubytask:Religion170 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo170;
+   rubytask:PercPopCatholic2011 "94.47" .
+
+rubytask:Religion171 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo171;
+   rubytask:PercPopCatholic2011 "60.13" .
+
+rubytask:Religion172 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo172;
+   rubytask:PercPopCatholic2011 "38.54" .
+
+rubytask:Religion173 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo173;
+   rubytask:PercPopCatholic2011 "57.41" .
+
+rubytask:Religion174 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo174;
+   rubytask:PercPopCatholic2011 "52.56" .
+
+rubytask:Religion175 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo175;
+   rubytask:PercPopCatholic2011 "64.22" .
+
+rubytask:Religion176 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo176;
+   rubytask:PercPopCatholic2011 "64.18" .
+
+rubytask:Religion177 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo177;
+   rubytask:PercPopCatholic2011 "49.81" .
+
+rubytask:Religion178 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo178;
+   rubytask:PercPopCatholic2011 "63.33" .
+
+rubytask:Religion179 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo179;
+   rubytask:PercPopCatholic2011 "81.92" .
+
+rubytask:Religion18 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo18;
+   rubytask:PercPopCatholic2011 "90.11" .
+
+rubytask:Religion180 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo180;
+   rubytask:PercPopCatholic2011 "74.09" .
+
+rubytask:Religion181 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo181;
+   rubytask:PercPopCatholic2011 "71.3" .
+
+rubytask:Religion182 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo182;
+   rubytask:PercPopCatholic2011 "76.69" .
+
+rubytask:Religion183 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo183;
+   rubytask:PercPopCatholic2011 "67" .
+
+rubytask:Religion184 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo184;
+   rubytask:PercPopCatholic2011 "68.95" .
+
+rubytask:Religion185 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo185;
+   rubytask:PercPopCatholic2011 "63.55" .
+
+rubytask:Religion186 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo186;
+   rubytask:PercPopCatholic2011 "52.33" .
+
+rubytask:Religion187 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo187;
+   rubytask:PercPopCatholic2011 "67.31" .
+
+rubytask:Religion188 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo188;
+   rubytask:PercPopCatholic2011 "65.17" .
+
+rubytask:Religion189 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo189;
+   rubytask:PercPopCatholic2011 "73.67" .
+
+rubytask:Religion19 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo19;
+   rubytask:PercPopCatholic2011 "83.91" .
+
+rubytask:Religion190 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo190;
+   rubytask:PercPopCatholic2011 "69.61" .
+
+rubytask:Religion191 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo191;
+   rubytask:PercPopCatholic2011 "66.4" .
+
+rubytask:Religion192 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo192;
+   rubytask:PercPopCatholic2011 "59.09" .
+
+rubytask:Religion193 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo193;
+   rubytask:PercPopCatholic2011 "55.77" .
+
+rubytask:Religion194 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo194;
+   rubytask:PercPopCatholic2011 "64.11" .
+
+rubytask:Religion195 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo195;
+   rubytask:PercPopCatholic2011 "65.73" .
+
+rubytask:Religion196 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo196;
+   rubytask:PercPopCatholic2011 "65.77" .
+
+rubytask:Religion197 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo197;
+   rubytask:PercPopCatholic2011 "60.25" .
+
+rubytask:Religion198 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo198;
+   rubytask:PercPopCatholic2011 "40.17" .
+
+rubytask:Religion199 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo199;
+   rubytask:PercPopCatholic2011 "50.21" .
+
+rubytask:Religion2 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo2;
+   rubytask:PercPopCatholic2011 "86.95" .
+
+rubytask:Religion20 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo20;
+   rubytask:PercPopCatholic2011 "88.25" .
+
+rubytask:Religion200 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo200;
+   rubytask:PercPopCatholic2011 "47.25" .
+
+rubytask:Religion201 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo201;
+   rubytask:PercPopCatholic2011 "59.7" .
+
+rubytask:Religion202 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo202;
+   rubytask:PercPopCatholic2011 "69.51" .
+
+rubytask:Religion203 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo203;
+   rubytask:PercPopCatholic2011 "75.84" .
+
+rubytask:Religion204 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo204;
+   rubytask:PercPopCatholic2011 "83.4" .
+
+rubytask:Religion205 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo205;
+   rubytask:PercPopCatholic2011 "83.44" .
+
+rubytask:Religion206 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo206;
+   rubytask:PercPopCatholic2011 "59.53" .
+
+rubytask:Religion207 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo207;
+   rubytask:PercPopCatholic2011 "62.85" .
+
+rubytask:Religion208 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo208;
+   rubytask:PercPopCatholic2011 "68.36" .
+
+rubytask:Religion209 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo209;
+   rubytask:PercPopCatholic2011 "60.72" .
+
+rubytask:Religion21 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo21;
+   rubytask:PercPopCatholic2011 "88.96" .
+
+rubytask:Religion210 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo210;
+   rubytask:PercPopCatholic2011 "77.7" .
+
+rubytask:Religion211 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo211;
+   rubytask:PercPopCatholic2011 "68.35" .
+
+rubytask:Religion212 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo212;
+   rubytask:PercPopCatholic2011 "80.57" .
+
+rubytask:Religion213 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo213;
+   rubytask:PercPopCatholic2011 "85.68" .
+
+rubytask:Religion214 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo214;
+   rubytask:PercPopCatholic2011 "85.14" .
+
+rubytask:Religion215 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo215;
+   rubytask:PercPopCatholic2011 "70.1" .
+
+rubytask:Religion216 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo216;
+   rubytask:PercPopCatholic2011 "48.94" .
+
+rubytask:Religion22 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo22;
+   rubytask:PercPopCatholic2011 "87.59" .
+
+rubytask:Religion23 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo23;
+   rubytask:PercPopCatholic2011 "78.26" .
+
+rubytask:Religion24 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo24;
+   rubytask:PercPopCatholic2011 "86.01" .
+
+rubytask:Religion25 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo25;
+   rubytask:PercPopCatholic2011 "92.87" .
+
+rubytask:Religion26 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo26;
+   rubytask:PercPopCatholic2011 "84.2" .
+
+rubytask:Religion27 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo27;
+   rubytask:PercPopCatholic2011 "89.63" .
+
+rubytask:Religion28 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo28;
+   rubytask:PercPopCatholic2011 "91.21" .
+
+rubytask:Religion286 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo286;
+   rubytask:PercPopCatholic2011 "65.18" .
+
+rubytask:Religion287 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo287;
+   rubytask:PercPopCatholic2011 "72.59" .
+
+rubytask:Religion288 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo288;
+   rubytask:PercPopCatholic2011 "81.61" .
+
+rubytask:Religion289 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo289;
+   rubytask:PercPopCatholic2011 "84.14" .
+
+rubytask:Religion29 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo29;
+   rubytask:PercPopCatholic2011 "80.62" .
+
+rubytask:Religion290 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo290;
+   rubytask:PercPopCatholic2011 "84.54" .
+
+rubytask:Religion291 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo291;
+   rubytask:PercPopCatholic2011 "88.23" .
+
+rubytask:Religion292 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo292;
+   rubytask:PercPopCatholic2011 "94" .
+
+rubytask:Religion293 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo293;
+   rubytask:PercPopCatholic2011 "71.54" .
+
+rubytask:Religion294 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo294;
+   rubytask:PercPopCatholic2011 "71.02" .
+
+rubytask:Religion295 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo295;
+   rubytask:PercPopCatholic2011 "73.44" .
+
+rubytask:Religion296 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo296;
+   rubytask:PercPopCatholic2011 "85.72" .
+
+rubytask:Religion297 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo297;
+   rubytask:PercPopCatholic2011 "76.74" .
+
+rubytask:Religion298 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo298;
+   rubytask:PercPopCatholic2011 "66.3" .
+
+rubytask:Religion299 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo299;
+   rubytask:PercPopCatholic2011 "85.2" .
+
+rubytask:Religion3 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo3;
+   rubytask:PercPopCatholic2011 "86.79" .
+
+rubytask:Religion30 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo30;
+   rubytask:PercPopCatholic2011 "83.49" .
+
+rubytask:Religion300 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo300;
+   rubytask:PercPopCatholic2011 "67.66" .
+
+rubytask:Religion301 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo301;
+   rubytask:PercPopCatholic2011 "75.34" .
+
+rubytask:Religion302 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo302;
+   rubytask:PercPopCatholic2011 "83.61" .
+
+rubytask:Religion303 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo303;
+   rubytask:PercPopCatholic2011 "85.95" .
+
+rubytask:Religion304 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo304;
+   rubytask:PercPopCatholic2011 "80.49" .
+
+rubytask:Religion305 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo305;
+   rubytask:PercPopCatholic2011 "74.57" .
+
+rubytask:Religion306 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo306;
+   rubytask:PercPopCatholic2011 "84.42" .
+
+rubytask:Religion307 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo307;
+   rubytask:PercPopCatholic2011 "88.96" .
+
+rubytask:Religion308 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo308;
+   rubytask:PercPopCatholic2011 "88.24" .
+
+rubytask:Religion309 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo309;
+   rubytask:PercPopCatholic2011 "77.51" .
+
+rubytask:Religion31 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo31;
+   rubytask:PercPopCatholic2011 "89.97" .
+
+rubytask:Religion310 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo310;
+   rubytask:PercPopCatholic2011 "88.39" .
+
+rubytask:Religion311 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo311;
+   rubytask:PercPopCatholic2011 "79.54" .
+
+rubytask:Religion312 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo312;
+   rubytask:PercPopCatholic2011 "84.76" .
+
+rubytask:Religion313 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo313;
+   rubytask:PercPopCatholic2011 "82.92" .
+
+rubytask:Religion314 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo314;
+   rubytask:PercPopCatholic2011 "78.63" .
+
+rubytask:Religion315 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo315;
+   rubytask:PercPopCatholic2011 "82.64" .
+
+rubytask:Religion316 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo316;
+   rubytask:PercPopCatholic2011 "85.45" .
+
+rubytask:Religion317 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo317;
+   rubytask:PercPopCatholic2011 "83.95" .
+
+rubytask:Religion318 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo318;
+   rubytask:PercPopCatholic2011 "84.67" .
+
+rubytask:Religion319 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo319;
+   rubytask:PercPopCatholic2011 "81.38" .
+
+rubytask:Religion32 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo32;
+   rubytask:PercPopCatholic2011 "89.28" .
+
+rubytask:Religion320 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo320;
+   rubytask:PercPopCatholic2011 "80.37" .
+
+rubytask:Religion328 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo328;
+   rubytask:PercPopCatholic2011 "76" .
+
+rubytask:Religion329 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo329;
+   rubytask:PercPopCatholic2011 "84.09" .
+
+rubytask:Religion33 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo33;
+   rubytask:PercPopCatholic2011 "90.56" .
+
+rubytask:Religion330 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo330;
+   rubytask:PercPopCatholic2011 "87.13" .
+
+rubytask:Religion331 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo331;
+   rubytask:PercPopCatholic2011 "85.07" .
+
+rubytask:Religion332 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo332;
+   rubytask:PercPopCatholic2011 "84.49" .
+
+rubytask:Religion333 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo333;
+   rubytask:PercPopCatholic2011 "81.12" .
+
+rubytask:Religion334 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo334;
+   rubytask:PercPopCatholic2011 "79.28" .
+
+rubytask:Religion335 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo335;
+   rubytask:PercPopCatholic2011 "87.19" .
+
+rubytask:Religion336 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo336;
+   rubytask:PercPopCatholic2011 "90.22" .
+
+rubytask:Religion337 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo337;
+   rubytask:PercPopCatholic2011 "82.75" .
+
+rubytask:Religion338 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo338;
+   rubytask:PercPopCatholic2011 "81.41" .
+
+rubytask:Religion339 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo339;
+   rubytask:PercPopCatholic2011 "82.43" .
+
+rubytask:Religion34 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo34;
+   rubytask:PercPopCatholic2011 "92.43" .
+
+rubytask:Religion340 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo340;
+   rubytask:PercPopCatholic2011 "85.26" .
+
+rubytask:Religion341 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo341;
+   rubytask:PercPopCatholic2011 "78.89" .
+
+rubytask:Religion342 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo342;
+   rubytask:PercPopCatholic2011 "71.29" .
+
+rubytask:Religion343 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo343;
+   rubytask:PercPopCatholic2011 "81.48" .
+
+rubytask:Religion344 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo344;
+   rubytask:PercPopCatholic2011 "73.09" .
+
+rubytask:Religion345 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo345;
+   rubytask:PercPopCatholic2011 "84.21" .
+
+rubytask:Religion346 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo346;
+   rubytask:PercPopCatholic2011 "88.66" .
+
+rubytask:Religion347 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo347;
+   rubytask:PercPopCatholic2011 "86.53" .
+
+rubytask:Religion348 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo348;
+   rubytask:PercPopCatholic2011 "77.64" .
+
+rubytask:Religion349 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo349;
+   rubytask:PercPopCatholic2011 "85.28" .
+
+rubytask:Religion35 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo35;
+   rubytask:PercPopCatholic2011 "91.09" .
+
+rubytask:Religion350 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo350;
+   rubytask:PercPopCatholic2011 "81.41" .
+
+rubytask:Religion351 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo351;
+   rubytask:PercPopCatholic2011 "79.87" .
+
+rubytask:Religion352 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo352;
+   rubytask:PercPopCatholic2011 "78.58" .
+
+rubytask:Religion353 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo353;
+   rubytask:PercPopCatholic2011 "75.61" .
+
+rubytask:Religion354 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo354;
+   rubytask:PercPopCatholic2011 "76.8" .
+
+rubytask:Religion355 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo355;
+   rubytask:PercPopCatholic2011 "91.2" .
+
+rubytask:Religion356 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo356;
+   rubytask:PercPopCatholic2011 "86.3" .
+
+rubytask:Religion357 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo357;
+   rubytask:PercPopCatholic2011 "81.27" .
+
+rubytask:Religion358 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo358;
+   rubytask:PercPopCatholic2011 "81.08" .
+
+rubytask:Religion359 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo359;
+   rubytask:PercPopCatholic2011 "77.81" .
+
+rubytask:Religion36 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo36;
+   rubytask:PercPopCatholic2011 "91.81" .
+
+rubytask:Religion360 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo360;
+   rubytask:PercPopCatholic2011 "91.39" .
+
+rubytask:Religion361 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo361;
+   rubytask:PercPopCatholic2011 "91.04" .
+
+rubytask:Religion362 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo362;
+   rubytask:PercPopCatholic2011 "83.18" .
+
+rubytask:Religion363 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo363;
+   rubytask:PercPopCatholic2011 "86.41" .
+
+rubytask:Religion364 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo364;
+   rubytask:PercPopCatholic2011 "89" .
+
+rubytask:Religion365 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo365;
+   rubytask:PercPopCatholic2011 "84.27" .
+
+rubytask:Religion366 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo366;
+   rubytask:PercPopCatholic2011 "75.79" .
+
+rubytask:Religion367 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo367;
+   rubytask:PercPopCatholic2011 "88.75" .
+
+rubytask:Religion368 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo368;
+   rubytask:PercPopCatholic2011 "87.21" .
+
+rubytask:Religion369 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo369;
+   rubytask:PercPopCatholic2011 "85.53" .
+
+rubytask:Religion37 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo37;
+   rubytask:PercPopCatholic2011 "89.28" .
+
+rubytask:Religion370 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo370;
+   rubytask:PercPopCatholic2011 "89.46" .
+
+rubytask:Religion371 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo371;
+   rubytask:PercPopCatholic2011 "91.21" .
+
+rubytask:Religion372 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo372;
+   rubytask:PercPopCatholic2011 "86.93" .
+
+rubytask:Religion373 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo373;
+   rubytask:PercPopCatholic2011 "81.44" .
+
+rubytask:Religion374 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo374;
+   rubytask:PercPopCatholic2011 "84.87" .
+
+rubytask:Religion375 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo375;
+   rubytask:PercPopCatholic2011 "85.92" .
+
+rubytask:Religion376 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo376;
+   rubytask:PercPopCatholic2011 "92.53" .
+
+rubytask:Religion38 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo38;
+   rubytask:PercPopCatholic2011 "82.46" .
+
+rubytask:Religion39 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo39;
+   rubytask:PercPopCatholic2011 "86.57" .
+
+rubytask:Religion4 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo4;
+   rubytask:PercPopCatholic2011 "89.83" .
+
+rubytask:Religion40 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo40;
+   rubytask:PercPopCatholic2011 "90.64" .
+
+rubytask:Religion41 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo41;
+   rubytask:PercPopCatholic2011 "74.73" .
+
+rubytask:Religion42 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo42;
+   rubytask:PercPopCatholic2011 "86.1" .
+
+rubytask:Religion43 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo43;
+   rubytask:PercPopCatholic2011 "82.35" .
+
+rubytask:Religion44 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo44;
+   rubytask:PercPopCatholic2011 "81.74" .
+
+rubytask:Religion45 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo45;
+   rubytask:PercPopCatholic2011 "83.41" .
+
+rubytask:Religion46 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo46;
+   rubytask:PercPopCatholic2011 "87.8" .
+
+rubytask:Religion47 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo47;
+   rubytask:PercPopCatholic2011 "86.04" .
+
+rubytask:Religion48 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo48;
+   rubytask:PercPopCatholic2011 "87.35" .
+
+rubytask:Religion49 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo49;
+   rubytask:PercPopCatholic2011 "94.27" .
+
+rubytask:Religion5 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo5;
+   rubytask:PercPopCatholic2011 "84.94" .
+
+rubytask:Religion50 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo50;
+   rubytask:PercPopCatholic2011 "90.29" .
+
+rubytask:Religion51 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo51;
+   rubytask:PercPopCatholic2011 "92.6" .
+
+rubytask:Religion52 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo52;
+   rubytask:PercPopCatholic2011 "93.55" .
+
+rubytask:Religion53 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo53;
+   rubytask:PercPopCatholic2011 "92.92" .
+
+rubytask:Religion54 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo54;
+   rubytask:PercPopCatholic2011 "90.69" .
+
+rubytask:Religion55 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo55;
+   rubytask:PercPopCatholic2011 "63.6" .
+
+rubytask:Religion56 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo56;
+   rubytask:PercPopCatholic2011 "54.26" .
+
+rubytask:Religion57 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo57;
+   rubytask:PercPopCatholic2011 "53.72" .
+
+rubytask:Religion58 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo58;
+   rubytask:PercPopCatholic2011 "67.37" .
+
+rubytask:Religion59 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo59;
+   rubytask:PercPopCatholic2011 "64.5" .
+
+rubytask:Religion6 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo6;
+   rubytask:PercPopCatholic2011 "87.46" .
+
+rubytask:Religion60 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo60;
+   rubytask:PercPopCatholic2011 "80.09" .
+
+rubytask:Religion61 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo61;
+   rubytask:PercPopCatholic2011 "81.95" .
+
+rubytask:Religion62 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo62;
+   rubytask:PercPopCatholic2011 "86.84" .
+
+rubytask:Religion63 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo63;
+   rubytask:PercPopCatholic2011 "77.43" .
+
+rubytask:Religion64 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo64;
+   rubytask:PercPopCatholic2011 "61.36" .
+
+rubytask:Religion65 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo65;
+   rubytask:PercPopCatholic2011 "83.61" .
+
+rubytask:Religion66 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo66;
+   rubytask:PercPopCatholic2011 "88.86" .
+
+rubytask:Religion67 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo67;
+   rubytask:PercPopCatholic2011 "85.08" .
+
+rubytask:Religion68 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo68;
+   rubytask:PercPopCatholic2011 "86.61" .
+
+rubytask:Religion69 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo69;
+   rubytask:PercPopCatholic2011 "86.32" .
+
+rubytask:Religion7 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo7;
+   rubytask:PercPopCatholic2011 "87.01" .
+
+rubytask:Religion70 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo70;
+   rubytask:PercPopCatholic2011 "86.86" .
+
+rubytask:Religion71 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo71;
+   rubytask:PercPopCatholic2011 "86.52" .
+
+rubytask:Religion72 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo72;
+   rubytask:PercPopCatholic2011 "82.98" .
+
+rubytask:Religion73 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo73;
+   rubytask:PercPopCatholic2011 "88.18" .
+
+rubytask:Religion74 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo74;
+   rubytask:PercPopCatholic2011 "89.45" .
+
+rubytask:Religion75 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo75;
+   rubytask:PercPopCatholic2011 "89.99" .
+
+rubytask:Religion76 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo76;
+   rubytask:PercPopCatholic2011 "83.91" .
+
+rubytask:Religion77 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo77;
+   rubytask:PercPopCatholic2011 "85.38" .
+
+rubytask:Religion78 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo78;
+   rubytask:PercPopCatholic2011 "86.88" .
+
+rubytask:Religion79 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo79;
+   rubytask:PercPopCatholic2011 "85.46" .
+
+rubytask:Religion8 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo8;
+   rubytask:PercPopCatholic2011 "92.48" .
+
+rubytask:Religion80 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo80;
+   rubytask:PercPopCatholic2011 "83.33" .
+
+rubytask:Religion81 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo81;
+   rubytask:PercPopCatholic2011 "76.82" .
+
+rubytask:Religion82 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo82;
+   rubytask:PercPopCatholic2011 "75.98" .
+
+rubytask:Religion83 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo83;
+   rubytask:PercPopCatholic2011 "68.43" .
+
+rubytask:Religion84 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo84;
+   rubytask:PercPopCatholic2011 "65.56" .
+
+rubytask:Religion85 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo85;
+   rubytask:PercPopCatholic2011 "83.4" .
+
+rubytask:Religion86 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo86;
+   rubytask:PercPopCatholic2011 "66.76" .
+
+rubytask:Religion87 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo87;
+   rubytask:PercPopCatholic2011 "89.45" .
+
+rubytask:Religion88 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo88;
+   rubytask:PercPopCatholic2011 "92.56" .
+
+rubytask:Religion89 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo89;
+   rubytask:PercPopCatholic2011 "85.85" .
+
+rubytask:Religion9 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo9;
+   rubytask:PercPopCatholic2011 "90.83" .
+
+rubytask:Religion90 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo90;
+   rubytask:PercPopCatholic2011 "79.45" .
+
+rubytask:Religion91 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo91;
+   rubytask:PercPopCatholic2011 "84.37" .
+
+rubytask:Religion92 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo92;
+   rubytask:PercPopCatholic2011 "81.36" .
+
+rubytask:Religion93 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo93;
+   rubytask:PercPopCatholic2011 "83.94" .
+
+rubytask:Religion94 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo94;
+   rubytask:PercPopCatholic2011 "79.69" .
+
+rubytask:Religion95 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo95;
+   rubytask:PercPopCatholic2011 "80.12" .
+
+rubytask:Religion96 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo96;
+   rubytask:PercPopCatholic2011 "82.01" .
+
+rubytask:Religion97 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo97;
+   rubytask:PercPopCatholic2011 "87.65" .
+
+rubytask:Religion98 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo98;
+   rubytask:PercPopCatholic2011 "73.77" .
+
+rubytask:Religion99 a rubytask:Migration;
+   rubytask:BasicInfo rubytask:BasicInfo99;
+   rubytask:PercPopCatholic2011 "68.01" .
+
+rubytask:BasicInfo1 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "001 Carlow Urban";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo10 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "010 Williamstown";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo100 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "046 Clontarf West E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo101 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "047 Drumcondra South A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo102 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "048 Drumcondra South B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo103 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "049 Drumcondra South C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo104 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "050 Edenmore";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo105 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "051 Finglas North A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo106 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "052 Finglas North B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo107 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "053 Finglas North C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo108 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "054 Finglas South A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo109 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "055 Finglas South B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo11 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "011 Agha";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo110 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "056 Finglas South C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo111 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "057 Finglas South D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo112 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "058 Grace Park";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo113 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "059 Grange A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo114 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "060 Grange B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo115 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "061 Grange C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo116 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "062 Grange D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo117 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "063 Grange E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo118 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "064 Harmonstown A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo119 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "065 Harmonstown B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo12 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "012 Ballinacarrig";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo120 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "066 Inns Quay A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo121 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "067 Inns Quay B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo122 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "068 Inns Quay C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo123 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "069 Kilmore A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo124 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "070 Kilmore B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo125 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "071 Kilmore C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo126 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "072 Kilmore D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo127 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "073 Mountjoy A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo128 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "074 Mountjoy B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo129 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "075 North City";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo13 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "013 Ballintemple";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo130 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "076 North Dock A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo131 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "077 North Dock B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo132 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "078 North Dock C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo133 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "079 Phoenix Park";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo134 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "080 Priorswood A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo135 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "081 Priorswood B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo136 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "082 Priorswood C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo137 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "083 Priorswood D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo138 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "084 Priorswood E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo139 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "085 Raheny-Foxfield";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo14 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "014 Ballon";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo140 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "086 Raheny-Greendale";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo141 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "087 Raheny-St. Assam";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo142 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "088 Rotunda A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo143 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "089 Rotunda B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo144 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "090 Whitehall A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo145 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "091 Whitehall B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo146 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "092 Whitehall C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo147 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "093 Whitehall D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo148 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "094 Chapelizod";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo149 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "095 Cherry Orchard A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo15 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "015 Ballyellin";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo150 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "096 Carna";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo151 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "097 Cherry Orchard C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo152 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "098 Crumlin A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo153 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "099 Crumlin B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo154 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "100 Crumlin C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo155 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "101 Crumlin D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo156 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "102 Crumlin E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo157 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "103 Crumlin F";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo158 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "104 Decies";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo159 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "105 Drumfinn";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo16 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "016 Ballymoon";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo160 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "106 Inchicore A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo161 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "107 Inchicore B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo162 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "108 Kilmainham A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo163 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "109 Kilmainham B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo164 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "110 Kilmainham C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo165 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "111 Kimmage A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo166 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "112 Kimmage B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo167 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "113 Kimmage C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo168 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "114 Kimmage D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo169 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "115 Kimmage E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo17 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "017 Borris";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo170 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "116 Kylemore";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo171 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "117 Mansion House A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo172 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "118 Mansion House B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo173 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "119 Merchants Quay A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo174 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "120 Merchants Quay B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo175 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "121 Merchants Quay C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo176 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "122 Merchants Quay D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo177 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "123 Merchants Quay E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo178 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "124 Merchants Quay F";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo179 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "125 Pembroke East A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo18 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "018 Burton Hall";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo180 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "126 Pembroke East B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo181 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "127 Pembroke East C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo182 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "128 Pembroke East D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo183 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "129 Pembroke East E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo184 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "130 Pembroke West A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo185 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "131 Pembroke West B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo186 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "132 Pembroke West C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo187 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "133 Rathfarnham";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo188 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "134 Rathmines East A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo189 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "135 Rathmines East B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo19 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "019 Carlow Rural";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo190 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "136 Rathmines East C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo191 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "137 Rathmines East D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo192 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "138 Rathmines West A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo193 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "139 Rathmines West B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo194 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "140 Rathmines West C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo195 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "141 Rathmines West D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo196 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "142 Rathmines West E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo197 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "143 Rathmines West F";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo198 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "144 Royal Exchange A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo199 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "145 Royal Exchange B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo2 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "002 Graigue Urban";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo20 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "020 Clogrenan";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo200 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "146 St. Kevin's";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo201 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "147 South Dock";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo202 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "148 Terenure A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo203 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "149 Terenure B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo204 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "150 Terenure C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo205 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "151 Terenure D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo206 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "152 Ushers A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo207 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "153 Ushers B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo208 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "154 Ushers C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo209 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "155 Ushers D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo21 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "021 Clonegall";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo210 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "156 Ushers E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo211 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "157 Ushers F";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo212 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "158 Walkinstown A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo213 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "159 Walkinstown B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo214 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "160 Walkinstown C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo215 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "161 Wood Quay A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo216 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "162 Wood Quay B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo22 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "022 Corries";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo23 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "023 Cranemore";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo24 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "024 Fennagh";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo25 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "025 Garryhill";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo26 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "026 Grangeford";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo27 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "027 Johnstown";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo28 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "028 Kellistown";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo286 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "001 Airport";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo287 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "002 Balbriggan Rural";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo288 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "003 Balbriggan Urban";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo289 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "004 Baldoyle";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo29 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "029 Kilbride";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo290 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "005 Balgriffin";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo291 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "006 Ballyboghil";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo292 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "007 Balscadden";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo293 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "008 Blanchardstown-Abbotstown";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo294 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "009 Blanchardstown-Blakestown";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo295 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "010 Blanchardstown-Coolmine";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo296 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "011 Blanchardstown-Corduff";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo297 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "012 Blanchardstown-Delwood";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo298 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "013 Blanchardstown-Mulhuddart";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo299 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "014 Blanchardstown-Roselawn";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo3 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "003 Clonmore";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo30 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "030 Killedmond";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo300 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "015 Blanchardstown-Tyrrelstown";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo301 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "016 Castleknock-Knockmaroon";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo302 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "017 Castleknock-Park";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo303 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "018 Clonmethan";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo304 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "019 Donabate";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo305 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "020 Dubber";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo306 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "021 Garristown";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo307 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "022 Hollywood";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo308 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "023 Holmpatrick";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo309 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "024 Howth";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo31 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "031 Killerrig";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo310 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "025 Kilsallaghan";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo311 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "026 Kinsaley";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo312 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "027 Lucan North";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo313 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "028 Lusk";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo314 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "029 Malahide East";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo315 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "030 Malahide West";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo316 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "031 Portmarnock North";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo317 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "032 Portmarnock South";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo318 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "033 Rush";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo319 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "034 Skerries";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo32 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "032 Leighlinbridge";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo320 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "035 Sutton";
+   rubytask:location "FINGAL";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo328 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "001 Ballinascorney";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo329 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "002 Ballyboden";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo33 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "033 Muinebeag (Bagenalstown) Rural";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo330 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "003 Bohernabreena";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo331 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "004 Clondalkin-Ballymount";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo332 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "005 Clondalkin-Cappaghmore";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo333 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "006 Clondalkin-Dunawley";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo334 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "007 Clondalkin-Monastery";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo335 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "008 Clondalkin-Moorfield";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo336 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "009 Clondalkin-Rowlagh";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo337 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "010 Clondalkin Village";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo338 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "011 Edmondstown";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo339 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "012 Firhouse-Ballycullen";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo34 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "034 Muinebeag (Bagenalstown) Urban";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo340 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "013 Firhouse-Knocklyon";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo341 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "014 Firhouse Village";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo342 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "015 Lucan-Esker";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo343 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "016 Lucan Heights";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo344 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "017 Lucan-St. Helen's";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo345 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "018 Newcastle";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo346 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "019 Palmerston Village";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo347 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "020 Palmerston West";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo348 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "021 Rathcoole";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo349 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "022 Rathfarnham-Ballyroan";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo35 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "035 Myshall";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo350 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "023 Rathfarnham-Butterfield";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo351 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "024 Rathfarnham-Hermitage";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo352 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "025 Rathfarnham-St. Enda's";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo353 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "026 Rathfarnham Village";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo354 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "027 Saggart";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo355 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "028 Tallaght-Avonbeg";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo356 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "029 Tallaght-Belgard";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo357 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "030 Tallaght-Fettercairn";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo358 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "031 Tallaght-Glenview";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo359 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "032 Tallaght-Jobstown";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo36 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "036 Nurney";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo360 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "033 Tallaght-Killinardan";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo361 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "034 Tallaght-Kilnamanagh";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo362 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "035 Tallaght-Kiltipper";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo363 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "036 Tallaght-Kingswood";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo364 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "037 Tallaght-Millbrook";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo365 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "038 Tallaght-Oldbawn";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo366 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "039 Tallaght-Springfield";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo367 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "040 Tallaght-Tymon";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo368 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "041 Templeogue-Cypress";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo369 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "042 Templeogue-Kimmage Manor";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo37 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "037 Oldleighlin";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo370 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "043 Templeogue-Limekiln";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo371 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "044 Templeogue-Orwell";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo372 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "045 Templeogue-Osprey";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo373 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "046 Templeogue Village";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo374 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "047 Terenure-Cherryfield";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo375 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "048 Terenure-Greentrees";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo376 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "049 Terenure-St. James";
+   rubytask:location "SOUTH DUBLIN";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo38 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "038 Rathanna";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo39 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "039 Rathornan";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo4 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "004 Hacketstown";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo40 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "040 Rathrush";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo41 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "041 Ridge";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo42 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "042 Shangarry";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo43 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "043 Sliguff";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo44 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "044 Tankardstown";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo45 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "045 Templepeter";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo46 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "046 Tullowbeg";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo47 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "047 Tullow Rural";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo48 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "048 Tullow Urban";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo49 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "049 Ballymurphy";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo5 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "005 Haroldstown";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo50 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "050 Coonogue";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo51 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "051 Glynn";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo52 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "052 Kyle";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo53 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "053 Marley";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo54 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "054 Tinnahinch";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo55 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "001 Arran Quay A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo56 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "002 Arran Quay B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo57 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "003 Arran Quay C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo58 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "004 Arran Quay D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo59 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "005 Arran Quay E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo6 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "006 Kineagh";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo60 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "006 Ashtown A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo61 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "007 Ashtown B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo62 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "008 Ayrfield";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo63 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "009 Ballybough A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo64 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "010 Ballybough B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo65 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "011 Ballygall A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo66 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "012 Ballygall B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo67 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "013 Ballygall C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo68 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "014 Ballygall D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo69 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "015 Ballymun A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo7 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "007 Rahill";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo70 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "016 Ballymun B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo71 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "017 Ballymun C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo72 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "018 Ballymun D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo73 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "019 Ballymun E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo74 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "020 Ballymun F";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo75 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "021 Beaumont A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo76 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "022 Beaumont B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo77 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "023 Beaumont C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo78 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "024 Beaumont D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo79 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "025 Beaumont E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo8 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "008 Rathvilly";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo80 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "026 Beaumont F";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo81 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "027 Botanic A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo82 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "028 Botanic B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo83 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "029 Botanic C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo84 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "030 Cabra East A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo85 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "031 Cabra East B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo86 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "032 Cabra East C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo87 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "033 Cabra West A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo88 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "034 Cabra West B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo89 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "035 Cabra West C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo9 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "009 Tiknock";
+   rubytask:location "CARLOW";
+   rubytask:region "Southern" .
+
+rubytask:BasicInfo90 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "036 Cabra West D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo91 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "037 Clontarf East A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo92 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "038 Clontarf East B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo93 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "039 Clontarf East C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo94 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "040 Clontarf East D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo95 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "041 Clontarf East E";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo96 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "042 Clontarf West A";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo97 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "043 Clontarf West B";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo98 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "044 Clontarf West C";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
+
+rubytask:BasicInfo99 a rubytask:BasicInfo;
+   <http://www.w3.org/2000/01/rdf-schema#label> "045 Clontarf West D";
+   rubytask:location "DUBLIN CITY";
+   rubytask:region "Eastern and Midlands" .
