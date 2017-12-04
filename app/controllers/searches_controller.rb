@@ -12,9 +12,11 @@ class SearchesController < ApplicationController
   def show
     begin
       @results = SPARQL.execute(@search.query.gsub("\t", ""), REPO)
-    rescue
+    rescue Exception
       @results = nil
-      format.html { redirect_to @search, notice: 'BAD QUARY' }
+      respond_to do |format|
+        format.html { redirect_to searches_url, notice: 'BAD QUARY'  }
+      end
     end
   end
 

@@ -30,7 +30,7 @@ class Geohive < Spira::Base
 end
 
 county_graph = RDF::Repository.load("http://data.geohive.ie/dumps/county/default.ttl", format: :ttl)
-wiki_graph = RDF::Repository.load("datasets/boundaries-links.ttl", format: :ttl)
+wiki_graph = RDF::Repository.load("small_datasets/boundaries-links.ttl", format: :ttl)
 solutions = SPARQL.execute("SELECT ?county ?label ?polygon
   WHERE { ?county a <http://ontologies.geohive.ie/osi#County> .
           ?county <http://www.w3.org/2000/01/rdf-schema#label> ?label .
@@ -68,15 +68,16 @@ class School < Spira::Base
   property :female, :predicate => RDF::URI.new("#{RONTO}femaleNum")
 end
 
-CSV.foreach("datasets/school.csv", encoding: 'iso-8859-1:UTF-8') do |row|
+CSV.foreach("small_datasets/school.csv", encoding: 'iso-8859-1:UTF-8') do |row|
   school = RDF::URI.new("#{RONTO}School#{row[0]}").as(School)
   s_location = RDF::URI.new("#{RONTO}Scoordinate#{row[0]}").as(Scoordinate)
   school.label     = row[1]
   school.male      = row[3].to_i
   school.female    = row[4].to_i
   school.hasScoordinate  = s_location.subject
-  county = SPARQL.execute("PREFIX ronto: <http://r-ontology.com/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT ?county WHERE { ?county rdfs:label \"#{row[1].upcase}\" . ?county a ronto:Geohive . }", Spira.repository)
+  county = SPARQL.execute("PREFIX ronto: <http://r-ontology.com/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT ?county WHERE { ?county rdfs:label \"#{row[2].upcase}\" . ?county a ronto:Geohive . }", Spira.repository)
   county.each do |c|
+    p c.county
     s_location.inCounty = c.county
   end
   s_location.belongsTo = school.subject
@@ -143,7 +144,7 @@ county_match = {
   "Waterford City" => "Waterford",
   "Galway County" => "Galway"
 }
-CSV.foreach("datasets/education.csv", encoding: 'iso-8859-1:UTF-8') do |row|
+CSV.foreach("small_datasets/education.csv", encoding: 'iso-8859-1:UTF-8') do |row|
   area = RDF::URI.new("#{RONTO}Area#{row[0]}").as(Area)
   area.village = row[1]
   county_name = county_match[row[2]] || row[2]
