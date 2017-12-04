@@ -11,7 +11,9 @@ class SearchesController < ApplicationController
   # GET /searches/1.json
   def show
     begin
-      @results = SPARQL.execute(@search.query.gsub("\t", ""), REPO)
+      query = @search.query.gsub("\t", "").gsub("\r", " ").gsub("\n", " ")
+      p query
+      @results = SPARQL.execute(query, REPO)
     rescue Exception
       @results = nil
       respond_to do |format|

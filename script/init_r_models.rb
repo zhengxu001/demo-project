@@ -11,7 +11,7 @@ require 'csv'
 
 Spira.repository = RDF::Repository.load("output-owl/r-ontology.ttl")
 
-# In 2011, which villages of Carlow have more than %90 Irish population and more than %5 of the people have a post-graduate degree. (Classes: Location – Ethnicity – Education)
+# In 2011, which villages of Carlow have more than %90 Irish population and more than %5 of the people have a post-graduate degree.
 # query = "PREFIX ronto: <http://r-ontology.com/>
 # PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 # PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
@@ -31,7 +31,7 @@ Spira.repository = RDF::Repository.load("output-owl/r-ontology.ttl")
 #     p solution.villages
 # end
 
-# #Which villages of Dublin have less than %89 Catholic population and less than %20 of the people have the highest level of education degree in 2011.
+# Which villages of Dublin have less than %89 Catholic population and less than %20 of the people have the highest level of education degree in 2011.
 # query = "PREFIX ronto: <http://r-ontology.com/>
 # PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 # PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
@@ -51,20 +51,20 @@ Spira.repository = RDF::Repository.load("output-owl/r-ontology.ttl")
 #     p solution.villages
 # end
 
-# In 2011, how much people have studied art in the villages of Carlow which have more than 750 people who were born in Ireland. (Classes: Location – Migration – Education)
-# query = "PREFIX ronto: <http://r-ontology.com/>
-# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-# PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
-# select ?villages ?num where {
-# ?a ronto:PopIEBirth2011 ?pop
-# FILTER (?pop > 750) 
-# ?a ronto:forArea ?b . 
-# ?c rdfs:label \"CARLOW\" . 
-# ?b geosparql:ehInside ?c . 
-# ?e ronto:PopStudiedArt2011 ?num . 
-# ?e ronto:forArea ?b .
-# ?b rdfs:label ?villages
-# }"
+# In 2011, how much people have studied art in the villages of Carlow which have more than 750 people who were born in Ireland.
+query = "PREFIX ronto: <http://r-ontology.com/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
+select ?villages ?num where {
+?a ronto:PopIEBirth2011 ?pop
+FILTER (?pop > 750) 
+?a ronto:forArea ?b . 
+?c rdfs:label \"CARLOW\" . 
+?b geosparql:ehInside ?c . 
+?e ronto:PopStudiedArt2011 ?num . 
+?e ronto:forArea ?b .
+?b rdfs:label ?villages
+}"
 # solutions = SPARQL.execute(query, Spira.repository)
 # solutions.each do |solution|
 # 	p solution.villages
@@ -162,7 +162,7 @@ Spira.repository = RDF::Repository.load("output-owl/r-ontology.ttl")
 # 	p solution.g
 # end
 
-# Question 9: Show the county has the shcools only have female students, show the geometry
+# Question 9: Show the county has the schools only have female students, show the geometry
 # query = "PREFIX ronto: <http://r-ontology.com/>
 # PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 # PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
