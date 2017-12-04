@@ -52,19 +52,19 @@ Spira.repository = RDF::Repository.load("output-owl/r-ontology.ttl")
 # end
 
 # In 2011, how much people have studied art in the villages of Carlow which have more than 750 people who were born in Ireland.
-query = "PREFIX ronto: <http://r-ontology.com/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
-select ?villages ?num where {
-?a ronto:PopIEBirth2011 ?pop
-FILTER (?pop > 750) 
-?a ronto:forArea ?b . 
-?c rdfs:label \"CARLOW\" . 
-?b geosparql:ehInside ?c . 
-?e ronto:PopStudiedArt2011 ?num . 
-?e ronto:forArea ?b .
-?b rdfs:label ?villages
-}"
+# query = "PREFIX ronto: <http://r-ontology.com/>
+# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+# PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#>
+# select ?villages ?num where {
+# ?a ronto:PopIEBirth2011 ?pop
+# FILTER (?pop > 750) 
+# ?a ronto:forArea ?b . 
+# ?c rdfs:label \"CARLOW\" . 
+# ?b geosparql:ehInside ?c . 
+# ?e ronto:PopStudiedArt2011 ?num . 
+# ?e ronto:forArea ?b .
+# ?b rdfs:label ?villages
+# }"
 # solutions = SPARQL.execute(query, Spira.repository)
 # solutions.each do |solution|
 # 	p solution.villages
@@ -125,7 +125,6 @@ FILTER (?pop > 750)
 # solutions.each do |solution|
 # 	p solution.county
 # end
-## Further more, we can get the polygon of these county and show them on the map
 
 # Question 7: Which county has the shcool that has most male student, show the geometry
 # query = "PREFIX ronto: <http://r-ontology.com/>
