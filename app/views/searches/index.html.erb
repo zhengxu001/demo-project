@@ -7,20 +7,16 @@
 <table class="table table-striped">
   <thead>
     <tr>
-      <th><%= model_class.human_attribute_name(:id) %></th>
       <th><%= model_class.human_attribute_name(:name) %></th>
       <th><%= model_class.human_attribute_name(:query) %></th>
-      <th><%= model_class.human_attribute_name(:created_at) %></th>
       <th><%=t '.actions', :default => t("helpers.actions") %></th>
     </tr>
   </thead>
   <tbody>
     <% @searches.each do |search| %>
       <tr>
-        <td><%= link_to search.id, search_path(search) %></td>
         <td><%= search.name %></td>
         <td><%= search.query %></td>
-        <td><%=l search.created_at %></td>
         <td>
           <%= link_to t('.show', :default => t("helpers.links.show")),
                       search_path(search), :class => 'btn btn-default btn-xs' %>
