@@ -7,16 +7,16 @@
 <table class="table table-striped">
   <thead>
     <tr>
-      <th><%= model_class.human_attribute_name(:name) %></th>
-      <th><%= model_class.human_attribute_name(:query) %></th>
+      <th><%= model_class.human_attribute_name(:Question) %></th>
+      <th><%= model_class.human_attribute_name(:Sparql) %></th>
       <th><%=t '.actions', :default => t("helpers.actions") %></th>
     </tr>
   </thead>
   <tbody>
     <% @searches.each do |search| %>
       <tr>
-        <td><%= search.name %></td>
-        <td><%= search.query %></td>
+        <td><%= search.name.truncate(128) %></td>
+        <td><%= search.query.truncate(64) %></td>
         <td>
           <%= link_to t('.show', :default => t("helpers.links.show")),
                       search_path(search), :class => 'btn btn-default btn-xs' %>
