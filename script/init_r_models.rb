@@ -10,22 +10,41 @@ require 'sparql'
 require 'csv'
 
 Spira.repository = RDF::Repository.load("output-owl/r-ontology.ttl")
-query = "PREFIX ronto: <http://r-ontology.com/>
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
-PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#> 
-select ?villages ?num where { 
-	?a ronto:PercHighLvlDeg2011 ?edu . 
-	FILTER (?edu < 20) 
-	?a ronto:forArea ?b . 
-	?c rdfs:label \"DUBLIN\" . 
-	?b geosparql:ehInside ?c . 
-	?e ronto:PercPopCatholic2011 ?num . 
-	?e ronto:forArea ?b . 
-	?b rdfs:label ?villages . }"
-solutions = SPARQL.execute(query, Spira.repository)
-solutions.each do |solution|
-    p solution.villages
-end
+
+# What are percentages of Irish populations in the vilages of Carlow which have more than 2% of the people have post-graduate degree, in 2011.
+# query = "PREFIX ronto: <http://r-ontology.com/> 
+# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+# PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#> 
+# select ?villages ?iresh where { 
+# 	?b ronto:PercPostGrad2011 ?postrate . 
+# 	FILTER (?postrate > 2) 
+# 	?e ronto:PercPopIrish2011 ?irish . 
+# 	?e ronto:forArea ?a . 
+# 	?b ronto:forArea ?a . 
+# 	?c rdfs:label \"CARLOW\" . 
+# 	?a geosparql:ehInside ?c . 
+# 	?a rdfs:label ?villages }"
+# solutions = SPARQL.execute(query, Spira.repository)
+# solutions.each do |solution|
+#     p solution.villages
+#     p solution.iresh
+# end
+# query = "PREFIX ronto: <http://r-ontology.com/>
+# PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+# PREFIX geosparql: <http://schemas.opengis.net/geosparql/1.0/geosparql_vocab_all.rdf#> 
+# select ?villages ?num where { 
+# 	?a ronto:PercHighLvlDeg2011 ?edu . 
+# 	FILTER (?edu < 20) 
+# 	?a ronto:forArea ?b . 
+# 	?c rdfs:label \"DUBLIN\" . 
+# 	?b geosparql:ehInside ?c . 
+# 	?e ronto:PercPopCatholic2011 ?num . 
+# 	?e ronto:forArea ?b . 
+# 	?b rdfs:label ?villages . }"
+# solutions = SPARQL.execute(query, Spira.repository)
+# solutions.each do |solution|
+#     p solution.villages
+# end
 # In 2011, which villages of Carlow have more than %90 Irish population and more than %5 of the people have a post-graduate degree.
 # query = "PREFIX ronto: <http://r-ontology.com/>
 # PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
