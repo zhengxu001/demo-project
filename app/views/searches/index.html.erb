@@ -16,9 +16,9 @@
     <% @searches.each do |search| %>
       <tr>
         <td><%= search.name.truncate(128) %></td>
-        <td><%= search.query.truncate(64) %></td>
+        <td><%= search.query.truncate(128) %></td>
         <td>
-          <%= link_to t('.show', :default => t("helpers.links.show")),
+          <%= link_to t('.show', :default => t("helpers.links.query")),
                       search_path(search), :class => 'btn btn-default btn-xs' %>
           <%= link_to t('.edit', :default => t("helpers.links.edit")),
                       edit_search_path(search), :class => 'btn btn-default btn-xs' %>
